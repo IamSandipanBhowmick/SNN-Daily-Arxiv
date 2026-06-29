@@ -1,4 +1,4 @@
-## Updated on 2026.05.17
+## Updated on 2026.06.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,133 +9,218 @@
 
 ## Spiking Neural Network
 
-|Publish Date|Title|Authors|PDF|
+|Publish Date|Title|Authors|Paper|
 |---|---|---|---|
-|**2026-05-14**|**NeuroTrain: Surveying Local Learning Rules for Spiking Neural Networks with an Open Benchmarking Framework**|Alessio Caviglia et.al.|[2605.15058v1](http://arxiv.org/abs/2605.15058v1)|**[link](http://arxiv.org/abs/2605.15058v1)**|
-|**2026-05-14**|**Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation**|Wilten Nicola et.al.|[2605.14319v1](http://arxiv.org/abs/2605.14319v1)|**[link](http://arxiv.org/abs/2605.14319v1)**|
-|**2026-05-14**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et.al.|[2605.14252v1](http://arxiv.org/abs/2605.14252v1)|**[link](http://arxiv.org/abs/2605.14252v1)**|
-|**2026-05-13**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653v2](http://arxiv.org/abs/2605.07653v2)|**[link](http://arxiv.org/abs/2605.07653v2)**|
-|**2026-05-13**|**FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping**|Jongmin Choi et.al.|[2605.13071v1](http://arxiv.org/abs/2605.13071v1)|**[link](http://arxiv.org/abs/2605.13071v1)**|
-|**2026-05-13**|**Dual-axis attribution of zebrafish tectal microcircuits for energy-efficient and robust neurocomputing**|Ningping Li et.al.|[2605.13924v1](http://arxiv.org/abs/2605.13924v1)|**[link](http://arxiv.org/abs/2605.13924v1)**|
-|**2026-05-12**|**Energy-Efficient Implementation of Spiking Recurrent Cells on FPGA**|Pascal Harmeling et.al.|[2605.10679v2](http://arxiv.org/abs/2605.10679v2)|**[link](http://arxiv.org/abs/2605.10679v2)**|
-|**2026-05-12**|**Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays**|Antony W. N'dri et.al.|[2605.12732v1](http://arxiv.org/abs/2605.12732v1)|**[link](http://arxiv.org/abs/2605.12732v1)**|
-|**2026-05-12**|**Massive MIMO CSI Feedback with Spiking Neural Networks**|Yanzhen Liu et.al.|[2605.12434v1](http://arxiv.org/abs/2605.12434v1)|**[link](http://arxiv.org/abs/2605.12434v1)**|
-|**2026-05-12**|**Heterogeneous SoC Integrating an Open-Source Recurrent SNN Accelerator for Neuromorphic Edge Computing on FPGA**|Michelangelo Barocci et.al.|[2605.12217v1](http://arxiv.org/abs/2605.12217v1)|**[link](http://arxiv.org/abs/2605.12217v1)**|
-|**2026-05-12**|**Multi-Timescale Conductance Spiking Networks: A Sparse, Gradient-Trainable Framework with Rich Firing Dynamics for Enhanced Temporal Processing**|Alex Fulleda-Garcia et.al.|[2605.11835v1](http://arxiv.org/abs/2605.11835v1)|**[link](http://arxiv.org/abs/2605.11835v1)**|
-|**2026-05-12**|**A Composite Activation Function for Learning Stable Binary Representations**|Seokhun Park et.al.|[2605.11558v1](http://arxiv.org/abs/2605.11558v1)|**[link](http://arxiv.org/abs/2605.11558v1)**|
-|**2026-05-12**|**Breaking Global Self-Attention Bottlenecks in Transformer-based Spiking Neural Networks with Local Structure-Aware Self-Attention**|Lingdong Li et.al.|[2605.13887v1](http://arxiv.org/abs/2605.13887v1)|**[link](http://arxiv.org/abs/2605.13887v1)**|
-|**2026-05-11**|**Joint sparse coding and temporal dynamics support context reconfiguration**|Qianqian Shi et.al.|[2605.10178v1](http://arxiv.org/abs/2605.10178v1)|**[link](http://arxiv.org/abs/2605.10178v1)**|
-|**2026-05-11**|**Frequency Matching in Spiking Neural Networks for mmWave Sensing**|Di Yu et.al.|[2605.09983v1](http://arxiv.org/abs/2605.09983v1)|**[link](http://arxiv.org/abs/2605.09983v1)**|
-|**2026-05-11**|**Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits**|Alex Currie et.al.|[2605.11243v1](http://arxiv.org/abs/2605.11243v1)|**[link](http://arxiv.org/abs/2605.11243v1)**|
-|**2026-05-08**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et.al.|[2605.08022v1](http://arxiv.org/abs/2605.08022v1)|**[link](http://arxiv.org/abs/2605.08022v1)**|
-|**2026-05-08**|**Direct-to-Event Spiking Neural Network Transfer**|Nhan Trong Luu et.al.|[2605.07207v1](http://arxiv.org/abs/2605.07207v1)|**[link](http://arxiv.org/abs/2605.07207v1)**|
-|**2026-05-08**|**UIESNN: A Scale-Aware Spiking Network for Underwater Image Enhancement**|Shuang Chen et.al.|[2605.08376v1](http://arxiv.org/abs/2605.08376v1)|**[link](http://arxiv.org/abs/2605.08376v1)**|
-|**2026-05-08**|**SAFformer:Improving Spiking Transformer via Active Predictive Filtering**|Zequan Xie et.al.|[2605.08270v1](http://arxiv.org/abs/2605.08270v1)|**[link](http://arxiv.org/abs/2605.08270v1)**|
-|**2026-05-07**|**Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks**|Dewei Bai et.al.|[2605.01291v2](http://arxiv.org/abs/2605.01291v2)|**[link](http://arxiv.org/abs/2605.01291v2)**|
+|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|
+|**2026-06-25**|**SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization**|Xiao Yang et al.|[2606.26841v1](http://arxiv.org/abs/2606.26841v1)|
+|**2026-06-24**|**Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution**|M. Waqas et al.|[2606.26301v1](http://arxiv.org/abs/2606.26301v1)|
+|**2026-06-24**|**A Neuromorphic Trigger for Efficient Audio Event Detection**|Benjamin Hatton et al.|[2606.17775v2](http://arxiv.org/abs/2606.17775v2)|
+|**2026-06-23**|**End-to-End Radar and Communication Modulation Recognition with Neuromorphic Computing**|Xiaohu Li et al.|[2606.24075v1](http://arxiv.org/abs/2606.24075v1)|
+|**2026-06-22**|**An Open-Source LFSR-Based Stochastic Leaky Integrate-and-Fire Neuron in SkyWater 130 nm: Design, Stochastic Characterisation, and Rate Coding**|Poornima Kumaresan et al.|[2606.23532v1](http://arxiv.org/abs/2606.23532v1)|
+|**2026-06-22**|**Emergence of Common Noise: Quantitative Conditional Propagation of Chaos**|Vlad Bally et al.|[2606.23433v1](http://arxiv.org/abs/2606.23433v1)|
+|**2026-06-22**|**Hopf bifurcation and stochastic spiking in an antiferromagnetic FitzHugh--Nagumo normal form**|D. Maroulakos et al.|[2606.23423v1](http://arxiv.org/abs/2606.23423v1)|
+|**2026-06-22**|**Neuromorphic Speech Enhancement with Dual-Branch Spiking Neural Networks**|Taiyu Meng et al.|[2606.23761v1](http://arxiv.org/abs/2606.23761v1)|
+|**2026-06-22**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v2](http://arxiv.org/abs/2606.20031v2)|
+|**2026-06-19**|**Soliton-like Waves in a Two-Dimensional Recurrent Spiking Neural Network with Weighted Spike-Timing-Dependent Plasticity**|Ch. Meessen et al.|[2606.21432v1](http://arxiv.org/abs/2606.21432v1)|
+|**2026-06-19**|**ExSpike: A General Full-Event Neuromorphic Architecture for Exploiting Irregular Sparsity with Event Compression**|Yuehai Chen et al.|[2606.20414v2](http://arxiv.org/abs/2606.20414v2)|
+|**2026-06-18**|**Hierarchical Pooling for Sheaf Neural Networks**|Dionisia Naddeo et al.|[2606.20932v1](http://arxiv.org/abs/2606.20932v1)|
+|**2026-06-18**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v1](http://arxiv.org/abs/2606.20151v1)|
+|**2026-06-17**|**Adaptive Speech-to-Spike Encoding for Spiking Neural Networks**|Taharim Rahman Anon et al.|[2606.19039v1](http://arxiv.org/abs/2606.19039v1)|
+|**2026-06-17**|**Low-Cost Neuromorphic Fall Detection Using Synthetic Event Data and Hybrid SNNs**|Guillermo Rojas et al.|[2606.18732v1](http://arxiv.org/abs/2606.18732v1)|
+|**2026-06-17**|**Spiking Pyramid Wavelet Transformation for High-efficient and Low-energy Image Restoration**|Chen Zhao et al.|[2606.18644v1](http://arxiv.org/abs/2606.18644v1)|
+|**2026-06-16**|**Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent**|Daye Kang et al.|[2604.00605v2](http://arxiv.org/abs/2604.00605v2)|
+|**2026-06-16**|**An Optimization Framework for Automated Assessment of Biological Plausibility of Spiking Neurons**|Sven Nitzsche et al.|[2606.17853v1](http://arxiv.org/abs/2606.17853v1)|
+|**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et al.|[2606.15898v1](http://arxiv.org/abs/2606.15898v1)|
+|**2026-06-14**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v2](http://arxiv.org/abs/2605.31027v2)|
+|**2026-06-12**|**A Composite Activation Function for Learning Stable Binary Representations**|Seokhun Park et al.|[2605.11558v2](http://arxiv.org/abs/2605.11558v2)|
+|**2026-06-12**|**SAFformer:Improving Spiking Transformer via Active Predictive Filtering**|Zequan Xie et al.|[2605.08270v2](http://arxiv.org/abs/2605.08270v2)|
+|**2026-06-12**|**Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment**|Guangzhi Tang et al.|[2606.14866v1](http://arxiv.org/abs/2606.14866v1)|
+|**2026-06-12**|**VQ4SNN: Vector Quantization for Memory-Efficient FPGA Spiking Neural Networks**|Dimitrios Sekertzis et al.|[2606.20675v1](http://arxiv.org/abs/2606.20675v1)|
+|**2026-06-12**|**A Formal Tool for Verification of Probabilistic Spiking Neural Networks Based on Quotient Abstractions**|Nikan Zandian Jazi et al.|[2606.20674v1](http://arxiv.org/abs/2606.20674v1)|
+|**2026-06-12**|**Co-Evolved Spiking Neural Network Ensembles via Marginal Contribution Fitness**|Catherine Rodriquez et al.|[2606.13985v1](http://arxiv.org/abs/2606.13985v1)|
+|**2026-06-11**|**SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting**|Jafar Bakhshaliyev et al.|[2606.13901v1](http://arxiv.org/abs/2606.13901v1)|
+|**2026-06-11**|**ReSCom: A Reconfigurable Spiking Neural Network Accelerator Using Stochastic Computing**|Ali Alipour Fereidani et al.|[2606.13560v1](http://arxiv.org/abs/2606.13560v1)|
+|**2026-06-11**|**SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling**|Seyed Sadra Ghavami et al.|[2606.13354v1](http://arxiv.org/abs/2606.13354v1)|
+|**2026-06-11**|**Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer**|Zhanglu Yan et al.|[2606.13016v1](http://arxiv.org/abs/2606.13016v1)|
+|**2026-06-11**|**LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning**|Xinrui He et al.|[2606.12895v1](http://arxiv.org/abs/2606.12895v1)|
+|**2026-06-10**|**SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks**|Claas Beger et al.|[2606.12287v1](http://arxiv.org/abs/2606.12287v1)|
+|**2026-06-10**|**SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection**|Min Yang et al.|[2606.12033v1](http://arxiv.org/abs/2606.12033v1)|
+|**2026-06-09**|**A Spiking Neural Architecture for Coordinating Arm and Locomotor Control**|Lea Steffen et al.|[2606.11034v1](http://arxiv.org/abs/2606.11034v1)|
+|**2026-06-08**|**Spiking Neural Network inference on FPGAs with hls4ml**|Barry M. Dillon et al.|[2606.10008v1](http://arxiv.org/abs/2606.10008v1)|
+|**2026-06-08**|**SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C**|Alejandro García Gener et al.|[2606.09213v1](http://arxiv.org/abs/2606.09213v1)|
+|**2026-06-08**|**NeuDW-CIM: a 65-nm 0.8-pJ/Sop Reconfigurable Neuromorphic Compute-in-Memory Macro with Nonlinear Dendrites and K-Winners**|Junyi Yang et al.|[2606.08947v1](http://arxiv.org/abs/2606.08947v1)|
+|**2026-06-07**|**This is how the Neocortex Learns**|Randall C. O'Reilly et al.|[2606.08720v1](http://arxiv.org/abs/2606.08720v1)|
+|**2026-06-07**|**Unifying von-Neumann HPC and Neuromorphic Acceleration via the EBRAINS Research Infrastructure: A Framework for High-Performance Workflows**|Krishna Kant Singh et al.|[2606.08515v1](http://arxiv.org/abs/2606.08515v1)|
+|**2026-06-06**|**Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**|Pengzhi Zhong et al.|[2603.27493v2](http://arxiv.org/abs/2603.27493v2)|
+|**2026-06-04**|**ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training**|Haihang Xia et al.|[2606.06159v1](http://arxiv.org/abs/2606.06159v1)|
+|**2026-06-04**|**DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement**|Cunhang Fan et al.|[2606.05911v1](http://arxiv.org/abs/2606.05911v1)|
+|**2026-06-03**|**Binary Spiking Neural Networks as Causal Models**|Aditya Kar et al.|[2604.27007v2](http://arxiv.org/abs/2604.27007v2)|
+|**2026-06-03**|**QDS-SNN: Energy-efficient Quantum Deeply-Supervised Spiking Neural Network Algorithm for Traffic Sign Recognition**|Zhiguo Qu et al.|[2606.07657v1](http://arxiv.org/abs/2606.07657v1)|
+|**2026-06-02**|**Energy-Efficient Implementation of Spiking Recurrent Cells on FPGA**|Pascal Harmeling et al.|[2605.10679v3](http://arxiv.org/abs/2605.10679v3)|
+|**2026-06-02**|**Quadratic integrate-and-fire neurons exhibit less fragmented loss landscapes and outperform leaky integrate-and-fire neurons in spike-based gradient descent**|Carlo Wenig et al.|[2606.03935v1](http://arxiv.org/abs/2606.03935v1)|
+|**2026-06-02**|**Signed Spiking Neuron Enabled by an Orthogonal-Easy-Axis Magnetic Tunnel Junction**|Huannan Zheng et al.|[2606.03796v1](http://arxiv.org/abs/2606.03796v1)|
+|**2026-06-02**|**Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs**|Ting Liu et al.|[2606.03026v1](http://arxiv.org/abs/2606.03026v1)|
+|**2026-06-01**|**Beyond Low-Rank: Low-Rank Sparse Prompting via Spiking Neural Network and Prompt Factorization**|Yumiao Zhao et al.|[2606.01945v1](http://arxiv.org/abs/2606.01945v1)|
+|**2026-06-01**|**A 32-Channel 3.53-μW Per Channel Brain-Machine Interface SoC Featuring Dual-Threshold Delta-modulation, In-Memory Spike Detection and Bi-SNN Based Motor Decoding**|Ye Ke et al.|[2606.01776v1](http://arxiv.org/abs/2606.01776v1)|
+|**2026-05-31**|**On the Evaluation of Spiking Neural Network Configurations for Network Intrusion Detection**|Raj Patel et al.|[2606.01442v1](http://arxiv.org/abs/2606.01442v1)|
+|**2026-05-31**|**IO Pad Integrity in Energy-Efficient Neuromorphic Chips**|Arfan Ghani et al.|[2606.01181v1](http://arxiv.org/abs/2606.01181v1)|
+|**2026-05-31**|**Spiking and Event-driven Neuromorphic Mamba Models for Efficient Speech Recognition**|Tauseef Ahmed et al.|[2606.01135v1](http://arxiv.org/abs/2606.01135v1)|
+|**2026-05-30**|**A Retinomorphic Optical Spiking Neuron for Camouflaged Object Detection**|Srilagna Sahoo et al.|[2606.00818v1](http://arxiv.org/abs/2606.00818v1)|
+|**2026-05-30**|**SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval**|Yukuan Zhang et al.|[2606.00740v1](http://arxiv.org/abs/2606.00740v1)|
+|**2026-05-30**|**SpikeReg: Energy-Efficient 3D Deformable Medical Image Registration with Spiking Neural Networks**|Ali Mikaeili Barzili et al.|[2605.25144v2](http://arxiv.org/abs/2605.25144v2)|
+|**2026-05-29**|**Memristor-Based Spiking Neural Network Accelerator for Bio-inspired Interception Task**|Qianhou Qu et al.|[2605.31299v1](http://arxiv.org/abs/2605.31299v1)|
+|**2026-05-29**|**Compact and Energy-Efficient Memristive Spiking Neuromorphic Accelerator for Bio-inspired Interception Tasks**|Qianhou Qu et al.|[2605.31141v1](http://arxiv.org/abs/2605.31141v1)|
+|**2026-05-29**|**A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks**|Yechan Kang et al.|[2606.11236v1](http://arxiv.org/abs/2606.11236v1)|
+|**2026-05-28**|**SpikeWFM: Spiking-Aided Wireless Foundation Model for Robust Channel Prediction**|Liwen Jing et al.|[2606.00120v1](http://arxiv.org/abs/2606.00120v1)|
+|**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et al.|[2605.28387v1](http://arxiv.org/abs/2605.28387v1)|
+|**2026-05-26**|**NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures**|Muhammad Ihsan Al Hafiz et al.|[2604.28059v2](http://arxiv.org/abs/2604.28059v2)|
+|**2026-05-24**|**Neuromorphic LiDAR-based Bird's Eye View Object Detection using Energy-efficient Spiking Neural Networks**|Sambit Mohapatra et al.|[2605.25293v1](http://arxiv.org/abs/2605.25293v1)|
+|**2026-05-24**|**Multi-Objective Optimisation with Oscillatory Dynamics in Spontaneous and Decision Spiking Neural Networks**|Divyansh Sethi et al.|[2605.25224v1](http://arxiv.org/abs/2605.25224v1)|
+|**2026-05-23**|**Neuromorphic Control of a Flapping-Wing Robot on Resource-Constrained Hardware**|Rim El Filali et al.|[2605.19430v2](http://arxiv.org/abs/2605.19430v2)|
+|**2026-05-22**|**UniSpike: Accelerating Spiking Neural Networks on Neuromorphic Systems via Eliminating Address Redundancy**|Qinghui Xing et al.|[2605.23796v1](http://arxiv.org/abs/2605.23796v1)|
+|**2026-05-22**|**Geometric Origin of Exact Mean-Field Reductions: M{ö}bius Symmetry and the Lorentzian Ansatz**|Hugues Berry et al.|[2605.23669v1](http://arxiv.org/abs/2605.23669v1)|
+|**2026-05-22**|**SpikingMoE: SDPrompt-Guided Dynamic Expert Fusion in Spiking Neural Networks**|Yukai Yang et al.|[2605.23188v1](http://arxiv.org/abs/2605.23188v1)|
+|**2026-05-21**|**Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks**|Aditi Aravind et al.|[2606.00073v1](http://arxiv.org/abs/2606.00073v1)|
+|**2026-05-21**|**Learning sequence timing and control of replay speed in networks of spiking neurons**|Melissa Lober et al.|[2605.22523v1](http://arxiv.org/abs/2605.22523v1)|
+|**2026-05-20**|**Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models**|Po-Han Chiang et al.|[2604.01295v2](http://arxiv.org/abs/2604.01295v2)|
+|**2026-05-20**|**ELSA: An ELastic SNN Inference Architecture for Efficient Neuromorphic Computing**|Kang You et al.|[2605.20802v1](http://arxiv.org/abs/2605.20802v1)|
+|**2026-05-20**|**Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation**|Mohamed Khair Altrabulsi et al.|[2605.20801v1](http://arxiv.org/abs/2605.20801v1)|
+|**2026-05-20**|**E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference**|Ankit Kumar Tenwar et al.|[2605.20717v1](http://arxiv.org/abs/2605.20717v1)|
+|**2026-05-19**|**Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers**|Xinzhe Yuan et al.|[2605.20289v1](http://arxiv.org/abs/2605.20289v1)|
+|**2026-05-18**|**Reinterpreting Safety Thresholds as Neuron Spiking Thresholds**|Enrico Del Re et al.|[2605.30368v1](http://arxiv.org/abs/2605.30368v1)|
+|**2026-05-18**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v1](http://arxiv.org/abs/2605.18333v1)|
+|**2026-05-18**|**Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks**|Alessio Caviglia et al.|[2605.18003v1](http://arxiv.org/abs/2605.18003v1)|
+|**2026-05-17**|**Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions**|Esila Keskin et al.|[2605.17399v1](http://arxiv.org/abs/2605.17399v1)|
+|**2026-05-16**|**Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations**|Phuoc-Toan Huynh et al.|[2605.17107v1](http://arxiv.org/abs/2605.17107v1)|
+|**2026-05-15**|**Scalable neuromorphic computing from autonomous spiking dynamics in a clockless reconfigurable chip**|Eric Oliveira Gomes et al.|[2605.16114v1](http://arxiv.org/abs/2605.16114v1)|
+|**2026-05-15**|**Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments**|Huyen Pham et al.|[2605.15866v1](http://arxiv.org/abs/2605.15866v1)|
+|**2026-05-15**|**XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning**|Jianfang Wu et al.|[2605.30362v1](http://arxiv.org/abs/2605.30362v1)|
+|**2026-05-14**|**NeuroTrain: Surveying Local Learning Rules for Spiking Neural Networks with an Open Benchmarking Framework**|Alessio Caviglia et al.|[2605.15058v1](http://arxiv.org/abs/2605.15058v1)|
+|**2026-05-14**|**Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation**|Wilten Nicola et al.|[2605.14319v1](http://arxiv.org/abs/2605.14319v1)|
+|**2026-05-14**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v1](http://arxiv.org/abs/2605.14252v1)|
+|**2026-05-14**|**Federated Learning of Spiking Neural Networks under Heterogeneous Temporal Resolutions**|Sanja Karilanova et al.|[2605.15355v1](http://arxiv.org/abs/2605.15355v1)|
+|**2026-05-14**|**Advancing Direct Training for Spiking Neural Networks with Circulate-Firing Neurons and Learnable Gradients**|Feifan Zhou et al.|[2605.27412v1](http://arxiv.org/abs/2605.27412v1)|
+|**2026-05-14**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v1](http://arxiv.org/abs/2605.30361v1)|
+|**2026-05-13**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et al.|[2605.07653v2](http://arxiv.org/abs/2605.07653v2)|
+|**2026-05-13**|**FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping**|Jongmin Choi et al.|[2605.13071v1](http://arxiv.org/abs/2605.13071v1)|
+|**2026-05-13**|**Dual-axis attribution of zebrafish tectal microcircuits for energy-efficient and robust neurocomputing**|Ningping Li et al.|[2605.13924v1](http://arxiv.org/abs/2605.13924v1)|
+|**2026-05-13**|**SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting**|John R. Minnick et al.|[2605.12992v1](http://arxiv.org/abs/2605.12992v1)|
+|**2026-05-12**|**Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays**|Antony W. N'dri et al.|[2605.12732v1](http://arxiv.org/abs/2605.12732v1)|
+|**2026-05-12**|**Massive MIMO CSI Feedback with Spiking Neural Networks**|Yanzhen Liu et al.|[2605.12434v1](http://arxiv.org/abs/2605.12434v1)|
+|**2026-05-12**|**Heterogeneous SoC Integrating an Open-Source Recurrent SNN Accelerator for Neuromorphic Edge Computing on FPGA**|Michelangelo Barocci et al.|[2605.12217v1](http://arxiv.org/abs/2605.12217v1)|
+|**2026-05-12**|**Multi-Timescale Conductance Spiking Networks: A Sparse, Gradient-Trainable Framework with Rich Firing Dynamics for Enhanced Temporal Processing**|Alex Fulleda-Garcia et al.|[2605.11835v1](http://arxiv.org/abs/2605.11835v1)|
+|**2026-05-12**|**Breaking Global Self-Attention Bottlenecks in Transformer-based Spiking Neural Networks with Local Structure-Aware Self-Attention**|Lingdong Li et al.|[2605.13887v1](http://arxiv.org/abs/2605.13887v1)|
+|**2026-05-12**|**STARS: Spike Tail-Aware Relational Synthesis for ANN-to-SNN Data-Free Knowledge Distillation**|Shuhan Ye et al.|[2605.27409v1](http://arxiv.org/abs/2605.27409v1)|
+|**2026-05-11**|**Joint sparse coding and temporal dynamics support context reconfiguration**|Qianqian Shi et al.|[2605.10178v1](http://arxiv.org/abs/2605.10178v1)|
+|**2026-05-11**|**Frequency Matching in Spiking Neural Networks for mmWave Sensing**|Di Yu et al.|[2605.09983v1](http://arxiv.org/abs/2605.09983v1)|
+|**2026-05-11**|**Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits**|Alex Currie et al.|[2605.11243v1](http://arxiv.org/abs/2605.11243v1)|
+|**2026-05-08**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et al.|[2605.08022v1](http://arxiv.org/abs/2605.08022v1)|
+|**2026-05-08**|**Direct-to-Event Spiking Neural Network Transfer**|Nhan Trong Luu et al.|[2605.07207v1](http://arxiv.org/abs/2605.07207v1)|
+|**2026-05-08**|**UIESNN: A Scale-Aware Spiking Network for Underwater Image Enhancement**|Shuang Chen et al.|[2605.08376v1](http://arxiv.org/abs/2605.08376v1)|
+|**2026-05-08**|**Benchmarking Fairness in Spiking Neural Networks: Data Bias, Spurious Features, and Hardware Effects**|Hudi He et al.|[2605.27407v1](http://arxiv.org/abs/2605.27407v1)|
+|**2026-05-07**|**Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks**|Dewei Bai et al.|[2605.01291v2](http://arxiv.org/abs/2605.01291v2)|
 |**2026-05-07**|**ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs**|Md Abrar Jahin et.al.|[2602.01124v3](http://arxiv.org/abs/2602.01124v3)|**[link](http://arxiv.org/abs/2602.01124v3)**|
-|**2026-05-07**|**Neuromorphic visual attention for Sign-language recognition on SpiNNaker**|Sarka Liskova et.al.|[2605.06005v1](http://arxiv.org/abs/2605.06005v1)|**[link](http://arxiv.org/abs/2605.06005v1)**|
-|**2026-05-07**|**Detecting AI-Generated Videos with Spiking Neural Networks**|Minsuk Jang et.al.|[2605.05895v1](http://arxiv.org/abs/2605.05895v1)|**[link](http://arxiv.org/abs/2605.05895v1)**|
+|**2026-05-07**|**Neuromorphic visual attention for Sign-language recognition on SpiNNaker**|Sarka Liskova et al.|[2605.06005v1](http://arxiv.org/abs/2605.06005v1)|
+|**2026-05-07**|**Detecting AI-Generated Videos with Spiking Neural Networks**|Minsuk Jang et al.|[2605.05895v1](http://arxiv.org/abs/2605.05895v1)|
 |**2026-05-06**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v3](http://arxiv.org/abs/2601.00020v3)|**[link](http://arxiv.org/abs/2601.00020v3)**|
-|**2026-05-04**|**Elastic Spiking Transformers for Efficient Gesture Understanding**|Alberto Ancilotto et.al.|[2605.13869v1](http://arxiv.org/abs/2605.13869v1)|**[link](http://arxiv.org/abs/2605.13869v1)**|
-|**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et.al.|[2605.01937v1](http://arxiv.org/abs/2605.01937v1)|**[link](http://arxiv.org/abs/2605.01937v1)**|
-|**2026-05-03**|**Training Non-Differentiable Networks via Optimal Transport**|An T. Le et.al.|[2605.01928v1](http://arxiv.org/abs/2605.01928v1)|**[link](http://arxiv.org/abs/2605.01928v1)**|
-|**2026-05-03**|**ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization**|Kaiwen Tang et.al.|[2605.01866v1](http://arxiv.org/abs/2605.01866v1)|**[link](http://arxiv.org/abs/2605.01866v1)**|
-|**2026-05-03**|**From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination**|Tingting Dan et.al.|[2605.01656v1](http://arxiv.org/abs/2605.01656v1)|**[link](http://arxiv.org/abs/2605.01656v1)**|
-|**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et.al.|[2605.00604v1](http://arxiv.org/abs/2605.00604v1)|**[link](http://arxiv.org/abs/2605.00604v1)**|
-|**2026-05-01**|**Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation**|Bo Tang et.al.|[2605.00402v1](http://arxiv.org/abs/2605.00402v1)|**[link](http://arxiv.org/abs/2605.00402v1)**|
-|**2026-05-01**|**A PVT-Resilient Subthreshold SRAM-Based In-Memory Computing Accelerator with In-Situ Regulation for Energy-Efficient Spiking Neural Networks**|Shih-Hang Kao et.al.|[2605.00319v1](http://arxiv.org/abs/2605.00319v1)|**[link](http://arxiv.org/abs/2605.00319v1)**|
-|**2026-04-30**|**NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures**|Muhammad Ihsan Al Hafiz et.al.|[2604.28059v1](http://arxiv.org/abs/2604.28059v1)|**[link](http://arxiv.org/abs/2604.28059v1)**|
+|**2026-05-04**|**Elastic Spiking Transformers for Efficient Gesture Understanding**|Alberto Ancilotto et al.|[2605.13869v1](http://arxiv.org/abs/2605.13869v1)|
+|**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et al.|[2605.01937v1](http://arxiv.org/abs/2605.01937v1)|
+|**2026-05-03**|**Training Non-Differentiable Networks via Optimal Transport**|An T. Le et al.|[2605.01928v1](http://arxiv.org/abs/2605.01928v1)|
+|**2026-05-03**|**ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization**|Kaiwen Tang et al.|[2605.01866v1](http://arxiv.org/abs/2605.01866v1)|
+|**2026-05-03**|**From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination**|Tingting Dan et al.|[2605.01656v1](http://arxiv.org/abs/2605.01656v1)|
+|**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et al.|[2605.00604v1](http://arxiv.org/abs/2605.00604v1)|
+|**2026-05-01**|**Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation**|Bo Tang et al.|[2605.00402v1](http://arxiv.org/abs/2605.00402v1)|
+|**2026-05-01**|**A PVT-Resilient Subthreshold SRAM-Based In-Memory Computing Accelerator with In-Situ Regulation for Energy-Efficient Spiking Neural Networks**|Shih-Hang Kao et al.|[2605.00319v1](http://arxiv.org/abs/2605.00319v1)|
 |**2026-04-30**|**BadSNN: Backdoor Attacks on Spiking Neural Networks via Adversarial Spiking Neuron**|Abdullah Arafat Miah et.al.|[2602.07200v2](http://arxiv.org/abs/2602.07200v2)|**[link](http://arxiv.org/abs/2602.07200v2)**|
-|**2026-04-30**|**Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark**|Udayanga G. W. K. N. Gamage et.al.|[2605.00146v1](http://arxiv.org/abs/2605.00146v1)|**[link](http://arxiv.org/abs/2605.00146v1)**|
-|**2026-04-29**|**Evolutionary feature selection for spiking neural network pattern classifiers**|Michal Valko et.al.|[2604.26654v1](http://arxiv.org/abs/2604.26654v1)|**[link](http://arxiv.org/abs/2604.26654v1)**|
-|**2026-04-29**|**Binary Spiking Neural Networks as Causal Models**|Aditya Kar et.al.|[2604.27007v1](http://arxiv.org/abs/2604.27007v1)|**[link](http://arxiv.org/abs/2604.27007v1)**|
-|**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et.al.|[2604.27004v1](http://arxiv.org/abs/2604.27004v1)|**[link](http://arxiv.org/abs/2604.27004v1)**|
-|**2026-04-28**|**QB-LIF: Learnable-Scale Quantized Burst Neurons for Efficient SNNs**|Dewei Bai et.al.|[2604.25688v1](http://arxiv.org/abs/2604.25688v1)|**[link](http://arxiv.org/abs/2604.25688v1)**|
-|**2026-04-26**|**Sparsity-Aware Event-Driven Impulse Radio Transceivers for Reliable Neuromorphic Inference**|Zhengzhong Guan et.al.|[2604.23559v1](http://arxiv.org/abs/2604.23559v1)|**[link](http://arxiv.org/abs/2604.23559v1)**|
-|**2026-04-26**|**Generalization Bounds of Spiking Neural Networks via Rademacher Complexity**|Shao-Qun Zhang et.al.|[2605.02927v1](http://arxiv.org/abs/2605.02927v1)|**[link](http://arxiv.org/abs/2605.02927v1)**|
-|**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et.al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|**[link](http://arxiv.org/abs/2604.23218v1)**|
-|**2026-04-24**|**Hardware-Software Co-Design for Event-Driven SNN Deployment on Low-Cost Neuromorphic FPGAs**|Jiwoon Lee et.al.|[2604.22179v1](http://arxiv.org/abs/2604.22179v1)|**[link](http://arxiv.org/abs/2604.22179v1)**|
-|**2026-04-23**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et.al.|[2604.21487v1](http://arxiv.org/abs/2604.21487v1)|**[link](http://arxiv.org/abs/2604.21487v1)**|
-|**2026-04-23**|**Shooting Neutrons at Neurons: Radiation Testing of a Spiking Neural Network on Flash-Based FPGAs**|Wim Nijsink et.al.|[2605.00030v1](http://arxiv.org/abs/2605.00030v1)|**[link](http://arxiv.org/abs/2605.00030v1)**|
+|**2026-04-30**|**Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark**|Udayanga G. W. K. N. Gamage et al.|[2605.00146v1](http://arxiv.org/abs/2605.00146v1)|
+|**2026-04-29**|**Evolutionary feature selection for spiking neural network pattern classifiers**|Michal Valko et al.|[2604.26654v1](http://arxiv.org/abs/2604.26654v1)|
+|**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et al.|[2604.27004v1](http://arxiv.org/abs/2604.27004v1)|
+|**2026-04-28**|**QB-LIF: Learnable-Scale Quantized Burst Neurons for Efficient SNNs**|Dewei Bai et al.|[2604.25688v1](http://arxiv.org/abs/2604.25688v1)|
+|**2026-04-26**|**Sparsity-Aware Event-Driven Impulse Radio Transceivers for Reliable Neuromorphic Inference**|Zhengzhong Guan et al.|[2604.23559v1](http://arxiv.org/abs/2604.23559v1)|
+|**2026-04-26**|**Generalization Bounds of Spiking Neural Networks via Rademacher Complexity**|Shao-Qun Zhang et al.|[2605.02927v1](http://arxiv.org/abs/2605.02927v1)|
+|**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|
+|**2026-04-24**|**Hardware-Software Co-Design for Event-Driven SNN Deployment on Low-Cost Neuromorphic FPGAs**|Jiwoon Lee et al.|[2604.22179v1](http://arxiv.org/abs/2604.22179v1)|
+|**2026-04-23**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et al.|[2604.21487v1](http://arxiv.org/abs/2604.21487v1)|
+|**2026-04-23**|**Shooting Neutrons at Neurons: Radiation Testing of a Spiking Neural Network on Flash-Based FPGAs**|Wim Nijsink et al.|[2605.00030v1](http://arxiv.org/abs/2605.00030v1)|
+|**2026-04-22**|**Impact of nuclear deformation on particle production in $Ne+Ne$ collisions at \texorpdfstring{\five}{sqrt(sNN)=5.36 TeV} from AMPT-SM**|M. U. Ashraf et al.|[2604.20152v1](http://arxiv.org/abs/2604.20152v1)|
 |**2026-04-21**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v2](http://arxiv.org/abs/2601.16118v2)|**[link](http://arxiv.org/abs/2601.16118v2)**|
-|**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|**[link](http://arxiv.org/abs/2604.18284v1)**|
-|**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|**[link](http://arxiv.org/abs/2604.10458v2)**|
-|**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997v1](http://arxiv.org/abs/2604.15997v1)|**[link](http://arxiv.org/abs/2604.15997v1)**|
-|**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714v1](http://arxiv.org/abs/2604.15714v1)|**[link](http://arxiv.org/abs/2604.15714v1)**|
-|**2026-04-17**|**Neuroscience Inspired Graph Operators Towards Edge-Deployable Virtual Sensing for Irregular Geometries**|William Howes et.al.|[2604.16722v1](http://arxiv.org/abs/2604.16722v1)|**[link](http://arxiv.org/abs/2604.16722v1)**|
-|**2026-04-16**|**Dual-Timescale Memory in a Spiking Neuron-Astrocyte Network for Efficient Navigation**|Yuliya Tsybina et.al.|[2604.15391v1](http://arxiv.org/abs/2604.15391v1)|**[link](http://arxiv.org/abs/2604.15391v1)**|
-|**2026-04-15**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v2](http://arxiv.org/abs/2604.08758v2)|**[link](http://arxiv.org/abs/2604.08758v2)**|
-|**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|**[link](http://arxiv.org/abs/2603.20954v2)**|
-|**2026-04-15**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et.al.|[2604.14096v1](http://arxiv.org/abs/2604.14096v1)|**[link](http://arxiv.org/abs/2604.14096v1)**|
-|**2026-04-15**|**General aspects of internal noise in spiking neural networks**|I. D. Kolesnikov et.al.|[2604.13612v1](http://arxiv.org/abs/2604.13612v1)|**[link](http://arxiv.org/abs/2604.13612v1)**|
-|**2026-04-15**|**Quantization of Spiking Neural Networks Beyond Accuracy**|Evan Gibson Smith et.al.|[2604.14487v1](http://arxiv.org/abs/2604.14487v1)|**[link](http://arxiv.org/abs/2604.14487v1)**|
+|**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|
+|**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|
+|**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et al.|[2604.15997v1](http://arxiv.org/abs/2604.15997v1)|
+|**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et al.|[2604.15714v1](http://arxiv.org/abs/2604.15714v1)|
+|**2026-04-17**|**Neuroscience Inspired Graph Operators Towards Edge-Deployable Virtual Sensing for Irregular Geometries**|William Howes et al.|[2604.16722v1](http://arxiv.org/abs/2604.16722v1)|
+|**2026-04-16**|**Dual-Timescale Memory in a Spiking Neuron-Astrocyte Network for Efficient Navigation**|Yuliya Tsybina et al.|[2604.15391v1](http://arxiv.org/abs/2604.15391v1)|
+|**2026-04-15**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et al.|[2604.08758v2](http://arxiv.org/abs/2604.08758v2)|
+|**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|
+|**2026-04-15**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et al.|[2604.14096v1](http://arxiv.org/abs/2604.14096v1)|
+|**2026-04-15**|**General aspects of internal noise in spiking neural networks**|I. D. Kolesnikov et al.|[2604.13612v1](http://arxiv.org/abs/2604.13612v1)|
+|**2026-04-15**|**Quantization of Spiking Neural Networks Beyond Accuracy**|Evan Gibson Smith et al.|[2604.14487v1](http://arxiv.org/abs/2604.14487v1)|
 |**2026-04-14**|**Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition**|Qianhui Liu et.al.|[2512.02459v2](http://arxiv.org/abs/2512.02459v2)|**[link](http://arxiv.org/abs/2512.02459v2)**|
-|**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et.al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|**[link](http://arxiv.org/abs/2604.12893v1)**|
-|**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et.al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|**[link](http://arxiv.org/abs/2604.12365v1)**|
-|**2026-04-14**|**EMBER: Autonomous Cognitive Behaviour from Learned Spiking Neural Network Dynamics in a Hybrid LLM Architecture**|William Savage et.al.|[2604.12167v1](http://arxiv.org/abs/2604.12167v1)|**[link](http://arxiv.org/abs/2604.12167v1)**|
-|**2026-04-14**|**Gradient-Free Continual Learning in Spiking Neural Networks via Inter-Spike Interval Regularization**|Samrendra Roy et.al.|[2604.16496v1](http://arxiv.org/abs/2604.16496v1)|**[link](http://arxiv.org/abs/2604.16496v1)**|
-|**2026-04-14**|**BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention and Spike-Aware Alignment Distillation**|Sihang Guo et.al.|[2605.13859v1](http://arxiv.org/abs/2605.13859v1)|**[link](http://arxiv.org/abs/2605.13859v1)**|
-|**2026-04-13**|**Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons**|Nikita Zhidkov et.al.|[2604.11780v1](http://arxiv.org/abs/2604.11780v1)|**[link](http://arxiv.org/abs/2604.11780v1)**|
-|**2026-04-13**|**Winner-Take-All Spiking Transformer for Language Modeling**|Chenlin Zhou et.al.|[2604.11321v1](http://arxiv.org/abs/2604.11321v1)|**[link](http://arxiv.org/abs/2604.11321v1)**|
-|**2026-04-13**|**Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems**|Samrendra Roy et.al.|[2604.18611v1](http://arxiv.org/abs/2604.18611v1)|**[link](http://arxiv.org/abs/2604.18611v1)**|
-|**2026-04-13**|**SpikeMLLM: Spike-based Multimodal Large Language Models via Modality-Specific Temporal Scales and Temporal Compression**|Han Xu et.al.|[2604.18610v1](http://arxiv.org/abs/2604.18610v1)|**[link](http://arxiv.org/abs/2604.18610v1)**|
-|**2026-04-11**|**Spike-driven Large Language Model**|Han Xu et.al.|[2604.16475v1](http://arxiv.org/abs/2604.16475v1)|**[link](http://arxiv.org/abs/2604.16475v1)**|
-|**2026-04-11**|**Full Feature Spiking Neural Network Simulation on Micro-Controllers for Neuromorphic Applications at the Edge**|L. Niedermeier et.al.|[2604.16474v1](http://arxiv.org/abs/2604.16474v1)|**[link](http://arxiv.org/abs/2604.16474v1)**|
+|**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|
+|**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|
+|**2026-04-14**|**EMBER: Autonomous Cognitive Behaviour from Learned Spiking Neural Network Dynamics in a Hybrid LLM Architecture**|William Savage et al.|[2604.12167v1](http://arxiv.org/abs/2604.12167v1)|
+|**2026-04-14**|**Gradient-Free Continual Learning in Spiking Neural Networks via Inter-Spike Interval Regularization**|Samrendra Roy et al.|[2604.16496v1](http://arxiv.org/abs/2604.16496v1)|
+|**2026-04-14**|**BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention and Spike-Aware Alignment Distillation**|Sihang Guo et al.|[2605.13859v1](http://arxiv.org/abs/2605.13859v1)|
+|**2026-04-13**|**Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons**|Nikita Zhidkov et al.|[2604.11780v1](http://arxiv.org/abs/2604.11780v1)|
+|**2026-04-13**|**Winner-Take-All Spiking Transformer for Language Modeling**|Chenlin Zhou et al.|[2604.11321v1](http://arxiv.org/abs/2604.11321v1)|
+|**2026-04-13**|**Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems**|Samrendra Roy et al.|[2604.18611v1](http://arxiv.org/abs/2604.18611v1)|
+|**2026-04-13**|**SpikeMLLM: Spike-based Multimodal Large Language Models via Modality-Specific Temporal Scales and Temporal Compression**|Han Xu et al.|[2604.18610v1](http://arxiv.org/abs/2604.18610v1)|
+|**2026-04-11**|**Spike-driven Large Language Model**|Han Xu et al.|[2604.16475v1](http://arxiv.org/abs/2604.16475v1)|
+|**2026-04-11**|**Full Feature Spiking Neural Network Simulation on Micro-Controllers for Neuromorphic Applications at the Edge**|L. Niedermeier et al.|[2604.16474v1](http://arxiv.org/abs/2604.16474v1)|
 |**2026-04-10**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v3](http://arxiv.org/abs/2603.08146v3)|**[link](http://arxiv.org/abs/2603.08146v3)**|
-|**2026-04-10**|**Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894v1](http://arxiv.org/abs/2604.08894v1)|**[link](http://arxiv.org/abs/2604.08894v1)**|
-|**2026-04-09**|**Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing**|Yesmine Abdennadher et.al.|[2604.08624v1](http://arxiv.org/abs/2604.08624v1)|**[link](http://arxiv.org/abs/2604.08624v1)**|
-|**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
-|**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et.al.|[2604.09696v1](http://arxiv.org/abs/2604.09696v1)|**[link](http://arxiv.org/abs/2604.09696v1)**|
-|**2026-04-06**|**Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous Driving**|Aref Ghoreishee et.al.|[2604.16436v1](http://arxiv.org/abs/2604.16436v1)|**[link](http://arxiv.org/abs/2604.16436v1)**|
+|**2026-04-10**|**Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et al.|[2604.08894v1](http://arxiv.org/abs/2604.08894v1)|
+|**2026-04-09**|**Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing**|Yesmine Abdennadher et al.|[2604.08624v1](http://arxiv.org/abs/2604.08624v1)|
+|**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|
+|**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et al.|[2604.09696v1](http://arxiv.org/abs/2604.09696v1)|
+|**2026-04-06**|**Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous Driving**|Aref Ghoreishee et al.|[2604.16436v1](http://arxiv.org/abs/2604.16436v1)|
 |**2026-04-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v2](http://arxiv.org/abs/2603.04966v2)|**[link](http://arxiv.org/abs/2603.04966v2)**|
-|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|**[link](http://arxiv.org/abs/2604.04117v1)**|
-|**2026-04-04**|**L-SPINE: A Low-Precision SIMD Spiking Neural Compute Engine for Resource-efficient Edge Inference**|Sonu Kumar et.al.|[2604.03626v1](http://arxiv.org/abs/2604.03626v1)|**[link](http://arxiv.org/abs/2604.03626v1)**|
-|**2026-04-03**|**Biologically Realistic Dynamics for Nonlinear Classification in CMOS+X Neurons**|Steven Louis et.al.|[2604.03187v1](http://arxiv.org/abs/2604.03187v1)|**[link](http://arxiv.org/abs/2604.03187v1)**|
-|**2026-04-03**|**YANA: Bridging the Neuromorphic Simulation-to-Hardware Gap**|Brian Pachideh et.al.|[2604.03432v1](http://arxiv.org/abs/2604.03432v1)|**[link](http://arxiv.org/abs/2604.03432v1)**|
-|**2026-04-02**|**Spike-PTSD: A Bio-Plausible Adversarial Example Attack on Spiking Neural Networks via PTSD-Inspired Spike Scaling**|Lingxin Jin et.al.|[2604.01750v1](http://arxiv.org/abs/2604.01750v1)|**[link](http://arxiv.org/abs/2604.01750v1)**|
-|**2026-04-01**|**Integer-State Dynamics of Quantized Spiking Neural Networks for Efficient Hardware Acceleration**|Lei Zhang et.al.|[2604.01042v1](http://arxiv.org/abs/2604.01042v1)|**[link](http://arxiv.org/abs/2604.01042v1)**|
-|**2026-04-01**|**Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent**|Daye Kang et.al.|[2604.00605v1](http://arxiv.org/abs/2604.00605v1)|**[link](http://arxiv.org/abs/2604.00605v1)**|
-|**2026-04-01**|**Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models**|Po-Han Chiang et.al.|[2604.01295v1](http://arxiv.org/abs/2604.01295v1)|**[link](http://arxiv.org/abs/2604.01295v1)**|
-|**2026-03-30**|**AceleradorSNN: A Neuromorphic Cognitive System Integrating Spiking Neural Networks and DynamicImage Signal Processing on FPGA**|Daniel Gutierrez et.al.|[2603.28429v1](http://arxiv.org/abs/2603.28429v1)|**[link](http://arxiv.org/abs/2603.28429v1)**|
-|**2026-03-29**|**An Energy-Efficient Spiking Neural Network Architecture for Predictive Insulin Delivery**|Sahil Shrivastava et.al.|[2603.27589v1](http://arxiv.org/abs/2603.27589v1)|**[link](http://arxiv.org/abs/2603.27589v1)**|
-|**2026-03-29**|**Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**|Pengzhi Zhong et.al.|[2603.27493v1](http://arxiv.org/abs/2603.27493v1)|**[link](http://arxiv.org/abs/2603.27493v1)**|
-|**2026-03-27**|**Efficient CMOS Invertible Logic Using Stochastic Computing**|Sean C. Smithson et.al.|[2603.27030v1](http://arxiv.org/abs/2603.27030v1)|**[link](http://arxiv.org/abs/2603.27030v1)**|
+|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|
+|**2026-04-04**|**L-SPINE: A Low-Precision SIMD Spiking Neural Compute Engine for Resource-efficient Edge Inference**|Sonu Kumar et al.|[2604.03626v1](http://arxiv.org/abs/2604.03626v1)|
+|**2026-04-03**|**Biologically Realistic Dynamics for Nonlinear Classification in CMOS+X Neurons**|Steven Louis et al.|[2604.03187v1](http://arxiv.org/abs/2604.03187v1)|
+|**2026-04-03**|**YANA: Bridging the Neuromorphic Simulation-to-Hardware Gap**|Brian Pachideh et al.|[2604.03432v1](http://arxiv.org/abs/2604.03432v1)|
+|**2026-04-02**|**Spike-PTSD: A Bio-Plausible Adversarial Example Attack on Spiking Neural Networks via PTSD-Inspired Spike Scaling**|Lingxin Jin et al.|[2604.01750v1](http://arxiv.org/abs/2604.01750v1)|
+|**2026-04-01**|**Integer-State Dynamics of Quantized Spiking Neural Networks for Efficient Hardware Acceleration**|Lei Zhang et al.|[2604.01042v1](http://arxiv.org/abs/2604.01042v1)|
+|**2026-03-30**|**AceleradorSNN: A Neuromorphic Cognitive System Integrating Spiking Neural Networks and DynamicImage Signal Processing on FPGA**|Daniel Gutierrez et al.|[2603.28429v1](http://arxiv.org/abs/2603.28429v1)|
+|**2026-03-29**|**An Energy-Efficient Spiking Neural Network Architecture for Predictive Insulin Delivery**|Sahil Shrivastava et al.|[2603.27589v1](http://arxiv.org/abs/2603.27589v1)|
+|**2026-03-27**|**Efficient CMOS Invertible Logic Using Stochastic Computing**|Sean C. Smithson et al.|[2603.27030v1](http://arxiv.org/abs/2603.27030v1)|
 |**2026-03-26**|**Delays in Spiking Neural Networks: A State Space Model Approach**|Sanja Karilanova et.al.|[2512.01906v2](http://arxiv.org/abs/2512.01906v2)|**[link](http://arxiv.org/abs/2512.01906v2)**|
-|**2026-03-26**|**Surrogates, Spikes, and Sparsity: Performance Analysis and Characterization of SNN Hyperparameters on Hardware**|Ilkin Aliyev et.al.|[2603.24891v1](http://arxiv.org/abs/2603.24891v1)|**[link](http://arxiv.org/abs/2603.24891v1)**|
-|**2026-03-25**|**Mixed-signal implementation of feedback-control optimizer for single-layer Spiking Neural Networks**|Jonathan Haag et.al.|[2603.24113v1](http://arxiv.org/abs/2603.24113v1)|**[link](http://arxiv.org/abs/2603.24113v1)**|
-|**2026-03-25**|**Characterization of Off-wafer Pulse Communication in BrainScaleS Neuromorphic System**|Bernhard Vogginger et.al.|[2603.24854v1](http://arxiv.org/abs/2603.24854v1)|**[link](http://arxiv.org/abs/2603.24854v1)**|
-|**2026-03-25**|**Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses**|Wuque Cai et.al.|[2603.24692v1](http://arxiv.org/abs/2603.24692v1)|**[link](http://arxiv.org/abs/2603.24692v1)**|
-|**2026-03-25**|**Brain-Inspired Multimodal Spiking Neural Network for Image-Text Retrieval**|Xintao Zong et.al.|[2603.26787v1](http://arxiv.org/abs/2603.26787v1)|**[link](http://arxiv.org/abs/2603.26787v1)**|
-|**2026-03-25**|**Efficient Encrypted Computation in Convolutional Spiking Neural Networks with TFHE**|Longfei Guo et.al.|[2603.26781v1](http://arxiv.org/abs/2603.26781v1)|**[link](http://arxiv.org/abs/2603.26781v1)**|
-|**2026-03-24**|**A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency**|Yi Lu et.al.|[2603.23206v1](http://arxiv.org/abs/2603.23206v1)|**[link](http://arxiv.org/abs/2603.23206v1)**|
-|**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et.al.|[2603.22727v1](http://arxiv.org/abs/2603.22727v1)|**[link](http://arxiv.org/abs/2603.22727v1)**|
-|**2026-03-24**|**Event-Driven Neuromorphic Vision Enables Energy-Efficient Visual Place Recognition**|Geoffroy Keime et.al.|[2604.03277v1](http://arxiv.org/abs/2604.03277v1)|**[link](http://arxiv.org/abs/2604.03277v1)**|
-|**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et.al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|**[link](http://arxiv.org/abs/2603.21781v1)**|
-|**2026-03-23**|**SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications**|Shailesh Garg et.al.|[2603.21674v1](http://arxiv.org/abs/2603.21674v1)|**[link](http://arxiv.org/abs/2603.21674v1)**|
-|**2026-03-23**|**Optimal Memory Encoding Through Fluctuation-Response Structure**|Lianxiang Cui et.al.|[2603.21666v1](http://arxiv.org/abs/2603.21666v1)|**[link](http://arxiv.org/abs/2603.21666v1)**|
-|**2026-03-21**|**Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks**|Zhuobin Yang et.al.|[2603.20687v1](http://arxiv.org/abs/2603.20687v1)|**[link](http://arxiv.org/abs/2603.20687v1)**|
-|**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|**[link](http://arxiv.org/abs/2603.18062v2)**|
-|**2026-03-19**|**Brain-inspired AI for Edge Intelligence: a systematic review**|Yingchao Cheng et.al.|[2603.26722v1](http://arxiv.org/abs/2603.26722v1)|**[link](http://arxiv.org/abs/2603.26722v1)**|
-|**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et.al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|**[link](http://arxiv.org/abs/2603.16462v1)**|
-|**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|**[link](http://arxiv.org/abs/2603.16338v1)**|
-|**2026-03-17**|**NeuronSpark: A Spiking Neural Network Language Model with Selective State Space Dynamics**|Zhengzheng Tang et.al.|[2603.16148v1](http://arxiv.org/abs/2603.16148v1)|**[link](http://arxiv.org/abs/2603.16148v1)**|
-|**2026-03-17**|**An FPGA-Based SoC Architecture with a RISC-V Controller for Energy-Efficient Temporal-Coding Spiking Neural Networks**|Mohammad Javad Sekonji et.al.|[2603.18054v1](http://arxiv.org/abs/2603.18054v1)|**[link](http://arxiv.org/abs/2603.18054v1)**|
+|**2026-03-26**|**Surrogates, Spikes, and Sparsity: Performance Analysis and Characterization of SNN Hyperparameters on Hardware**|Ilkin Aliyev et al.|[2603.24891v1](http://arxiv.org/abs/2603.24891v1)|
+|**2026-03-25**|**Mixed-signal implementation of feedback-control optimizer for single-layer Spiking Neural Networks**|Jonathan Haag et al.|[2603.24113v1](http://arxiv.org/abs/2603.24113v1)|
+|**2026-03-25**|**Characterization of Off-wafer Pulse Communication in BrainScaleS Neuromorphic System**|Bernhard Vogginger et al.|[2603.24854v1](http://arxiv.org/abs/2603.24854v1)|
+|**2026-03-25**|**Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses**|Wuque Cai et al.|[2603.24692v1](http://arxiv.org/abs/2603.24692v1)|
+|**2026-03-25**|**Brain-Inspired Multimodal Spiking Neural Network for Image-Text Retrieval**|Xintao Zong et al.|[2603.26787v1](http://arxiv.org/abs/2603.26787v1)|
+|**2026-03-25**|**Efficient Encrypted Computation in Convolutional Spiking Neural Networks with TFHE**|Longfei Guo et al.|[2603.26781v1](http://arxiv.org/abs/2603.26781v1)|
+|**2026-03-24**|**A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency**|Yi Lu et al.|[2603.23206v1](http://arxiv.org/abs/2603.23206v1)|
+|**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et al.|[2603.22727v1](http://arxiv.org/abs/2603.22727v1)|
+|**2026-03-24**|**Event-Driven Neuromorphic Vision Enables Energy-Efficient Visual Place Recognition**|Geoffroy Keime et al.|[2604.03277v1](http://arxiv.org/abs/2604.03277v1)|
+|**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|
+|**2026-03-23**|**SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications**|Shailesh Garg et al.|[2603.21674v1](http://arxiv.org/abs/2603.21674v1)|
+|**2026-03-23**|**Optimal Memory Encoding Through Fluctuation-Response Structure**|Lianxiang Cui et al.|[2603.21666v1](http://arxiv.org/abs/2603.21666v1)|
+|**2026-03-23**|**Comparing EPOS-4, EPOS-LHC, and SMASH for identified-hadron observables in the NICA energy range**|Murad Badshah et al.|[2603.21764v1](http://arxiv.org/abs/2603.21764v1)|
+|**2026-03-21**|**Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks**|Zhuobin Yang et al.|[2603.20687v1](http://arxiv.org/abs/2603.20687v1)|
+|**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|
+|**2026-03-19**|**Brain-inspired AI for Edge Intelligence: a systematic review**|Yingchao Cheng et al.|[2603.26722v1](http://arxiv.org/abs/2603.26722v1)|
+|**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|
+|**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|
+|**2026-03-17**|**NeuronSpark: A Spiking Neural Network Language Model with Selective State Space Dynamics**|Zhengzheng Tang et al.|[2603.16148v1](http://arxiv.org/abs/2603.16148v1)|
+|**2026-03-17**|**An FPGA-Based SoC Architecture with a RISC-V Controller for Energy-Efficient Temporal-Coding Spiking Neural Networks**|Mohammad Javad Sekonji et al.|[2603.18054v1](http://arxiv.org/abs/2603.18054v1)|
 |**2026-03-16**|**Scaling and tuning to criticality in resting-state human magnetoencephalography**|Irem Topal et.al.|[2602.17820v2](http://arxiv.org/abs/2602.17820v2)|**[link](http://arxiv.org/abs/2602.17820v2)**|
-|**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184v1](http://arxiv.org/abs/2603.15184v1)|**[link](http://arxiv.org/abs/2603.15184v1)**|
-|**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et.al.|[2603.14956v1](http://arxiv.org/abs/2603.14956v1)|**[link](http://arxiv.org/abs/2603.14956v1)**|
-|**2026-03-16**|**Spiking Layer-Adaptive Magnitude-based Pruning**|Junqiao Wang et.al.|[2603.14946v1](http://arxiv.org/abs/2603.14946v1)|**[link](http://arxiv.org/abs/2603.14946v1)**|
-|**2026-03-16**|**Determinism in the Undetermined: Deterministic Output in Charge-Conserving Continuous-Time Neuromorphic Systems with Temporal Stochasticity**|Jing Yan et.al.|[2603.15987v1](http://arxiv.org/abs/2603.15987v1)|**[link](http://arxiv.org/abs/2603.15987v1)**|
-|**2026-03-16**|**S2Act: Simple Spiking Actor**|Ugur Akcal et.al.|[2603.15725v1](http://arxiv.org/abs/2603.15725v1)|**[link](http://arxiv.org/abs/2603.15725v1)**|
-|**2026-03-15**|**Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks**|Nengbo Zhang et.al.|[2603.14475v1](http://arxiv.org/abs/2603.14475v1)|**[link](http://arxiv.org/abs/2603.14475v1)**|
-|**2026-03-15**|**SPARQ: Spiking Early-Exit Neural Networks for Energy-Efficient Edge AI**|Parth Patne et.al.|[2603.14380v1](http://arxiv.org/abs/2603.14380v1)|**[link](http://arxiv.org/abs/2603.14380v1)**|
-|**2026-03-15**|**MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks**|Yongsheng Huang et.al.|[2603.14285v1](http://arxiv.org/abs/2603.14285v1)|**[link](http://arxiv.org/abs/2603.14285v1)**|
-|**2026-03-14**|**Collapse or Preserve: Data-Dependent Temporal Aggregation for Spiking Neural Network Acceleration**|Jiahao Qin et.al.|[2603.13810v1](http://arxiv.org/abs/2603.13810v1)|**[link](http://arxiv.org/abs/2603.13810v1)**|
-|**2026-03-14**|**Sharpness Aware Surrogate Training for Spiking Neural Networks**|Maximilian Nicholson et.al.|[2603.18039v1](http://arxiv.org/abs/2603.18039v1)|**[link](http://arxiv.org/abs/2603.18039v1)**|
-|**2026-03-13**|**SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks**|Hongyang Shang et.al.|[2603.12739v1](http://arxiv.org/abs/2603.12739v1)|**[link](http://arxiv.org/abs/2603.12739v1)**|
-|**2026-03-13**|**Equivalence of approximation by networks of single- and multi-spike neurons**|Dominik Dold et.al.|[2603.13478v1](http://arxiv.org/abs/2603.13478v1)|**[link](http://arxiv.org/abs/2603.13478v1)**|
-|**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et.al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|**[link](http://arxiv.org/abs/2603.12060v1)**|
-|**2026-03-12**|**SNAP-V: A RISC-V SoC with Configurable Neuromorphic Acceleration for Small-Scale Spiking Neural Networks**|Kanishka Gunawardana et.al.|[2603.11939v1](http://arxiv.org/abs/2603.11939v1)|**[link](http://arxiv.org/abs/2603.11939v1)**|
+|**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et al.|[2603.15184v1](http://arxiv.org/abs/2603.15184v1)|
+|**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et al.|[2603.14956v1](http://arxiv.org/abs/2603.14956v1)|
+|**2026-03-16**|**Spiking Layer-Adaptive Magnitude-based Pruning**|Junqiao Wang et al.|[2603.14946v1](http://arxiv.org/abs/2603.14946v1)|
+|**2026-03-16**|**Determinism in the Undetermined: Deterministic Output in Charge-Conserving Continuous-Time Neuromorphic Systems with Temporal Stochasticity**|Jing Yan et al.|[2603.15987v1](http://arxiv.org/abs/2603.15987v1)|
+|**2026-03-16**|**S2Act: Simple Spiking Actor**|Ugur Akcal et al.|[2603.15725v1](http://arxiv.org/abs/2603.15725v1)|
+|**2026-03-15**|**Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks**|Nengbo Zhang et al.|[2603.14475v1](http://arxiv.org/abs/2603.14475v1)|
+|**2026-03-15**|**SPARQ: Spiking Early-Exit Neural Networks for Energy-Efficient Edge AI**|Parth Patne et al.|[2603.14380v1](http://arxiv.org/abs/2603.14380v1)|
+|**2026-03-15**|**MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks**|Yongsheng Huang et al.|[2603.14285v1](http://arxiv.org/abs/2603.14285v1)|
+|**2026-03-14**|**Collapse or Preserve: Data-Dependent Temporal Aggregation for Spiking Neural Network Acceleration**|Jiahao Qin et al.|[2603.13810v1](http://arxiv.org/abs/2603.13810v1)|
+|**2026-03-14**|**Sharpness Aware Surrogate Training for Spiking Neural Networks**|Maximilian Nicholson et al.|[2603.18039v1](http://arxiv.org/abs/2603.18039v1)|
+|**2026-03-13**|**SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks**|Hongyang Shang et al.|[2603.12739v1](http://arxiv.org/abs/2603.12739v1)|
+|**2026-03-13**|**Equivalence of approximation by networks of single- and multi-spike neurons**|Dominik Dold et al.|[2603.13478v1](http://arxiv.org/abs/2603.13478v1)|
+|**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|
+|**2026-03-12**|**SNAP-V: A RISC-V SoC with Configurable Neuromorphic Acceleration for Small-Scale Spiking Neural Networks**|Kanishka Gunawardana et al.|[2603.11939v1](http://arxiv.org/abs/2603.11939v1)|
 |**2026-03-12**|**Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks**|Yongqi Ding et.al.|[2603.11676v1](http://arxiv.org/abs/2603.11676v1)|**[link](http://arxiv.org/abs/2603.11676v1)**|
+|**2026-03-12**|**Causal Matrix Completion under Multiple Treatments via Mixed Synthetic Nearest Neighbors**|Minrui Luo et al.|[2603.11942v1](http://arxiv.org/abs/2603.11942v1)|
 |**2026-03-11**|**An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification**|Gaishan Li et.al.|[2603.10537v1](http://arxiv.org/abs/2603.10537v1)|**[link](http://arxiv.org/abs/2603.10537v1)**|
 |**2026-03-10**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v2](http://arxiv.org/abs/2602.12236v2)|**[link](http://arxiv.org/abs/2602.12236v2)**|
 |**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274v1](http://arxiv.org/abs/2603.09274v1)|**[link](http://arxiv.org/abs/2603.09274v1)**|
@@ -3288,5 +3373,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
 
