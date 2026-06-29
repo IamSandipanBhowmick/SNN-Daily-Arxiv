@@ -49,5 +49,5 @@ jobs:
           git commit -m "Github Action Automatic Update SNN Arxiv Papers" || echo "No changes to commit"
 
           git push
-```
+
 
