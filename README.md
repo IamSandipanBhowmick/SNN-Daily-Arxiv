@@ -1,4 +1,4 @@
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,11 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-06-29**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v2](http://arxiv.org/abs/2605.14252v2)|
+|**2026-06-29**|**Mega: A 22 nm Convolutional Spiking Neural Network Accelerator Achieving 0.375 pJ/SOP for Efficient Edge Vision**|Rick Luiken et al.|[2606.30039v1](http://arxiv.org/abs/2606.30039v1)|
+|**2026-06-27**|**Unified Complex-valued Neural Network: A Magnitude-Phase Computational Model for Event-Driven Neuromorphic Learning**|Reza Ahmadvand et al.|[2606.29099v1](http://arxiv.org/abs/2606.29099v1)|
 |**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|
+|**2026-06-26**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et al.|[2605.08022v2](http://arxiv.org/abs/2605.08022v2)|
 |**2026-06-25**|**SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization**|Xiao Yang et al.|[2606.26841v1](http://arxiv.org/abs/2606.26841v1)|
 |**2026-06-24**|**Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution**|M. Waqas et al.|[2606.26301v1](http://arxiv.org/abs/2606.26301v1)|
 |**2026-06-24**|**A Neuromorphic Trigger for Efficient Audio Event Detection**|Benjamin Hatton et al.|[2606.17775v2](http://arxiv.org/abs/2606.17775v2)|
@@ -97,7 +101,6 @@
 |**2026-05-15**|**XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning**|Jianfang Wu et al.|[2605.30362v1](http://arxiv.org/abs/2605.30362v1)|
 |**2026-05-14**|**NeuroTrain: Surveying Local Learning Rules for Spiking Neural Networks with an Open Benchmarking Framework**|Alessio Caviglia et al.|[2605.15058v1](http://arxiv.org/abs/2605.15058v1)|
 |**2026-05-14**|**Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation**|Wilten Nicola et al.|[2605.14319v1](http://arxiv.org/abs/2605.14319v1)|
-|**2026-05-14**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v1](http://arxiv.org/abs/2605.14252v1)|
 |**2026-05-14**|**Federated Learning of Spiking Neural Networks under Heterogeneous Temporal Resolutions**|Sanja Karilanova et al.|[2605.15355v1](http://arxiv.org/abs/2605.15355v1)|
 |**2026-05-14**|**Advancing Direct Training for Spiking Neural Networks with Circulate-Firing Neurons and Learnable Gradients**|Feifan Zhou et al.|[2605.27412v1](http://arxiv.org/abs/2605.27412v1)|
 |**2026-05-14**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v1](http://arxiv.org/abs/2605.30361v1)|
@@ -114,7 +117,6 @@
 |**2026-05-11**|**Joint sparse coding and temporal dynamics support context reconfiguration**|Qianqian Shi et al.|[2605.10178v1](http://arxiv.org/abs/2605.10178v1)|
 |**2026-05-11**|**Frequency Matching in Spiking Neural Networks for mmWave Sensing**|Di Yu et al.|[2605.09983v1](http://arxiv.org/abs/2605.09983v1)|
 |**2026-05-11**|**Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits**|Alex Currie et al.|[2605.11243v1](http://arxiv.org/abs/2605.11243v1)|
-|**2026-05-08**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et al.|[2605.08022v1](http://arxiv.org/abs/2605.08022v1)|
 |**2026-05-08**|**Direct-to-Event Spiking Neural Network Transfer**|Nhan Trong Luu et al.|[2605.07207v1](http://arxiv.org/abs/2605.07207v1)|
 |**2026-05-08**|**UIESNN: A Scale-Aware Spiking Network for Underwater Image Enhancement**|Shuang Chen et al.|[2605.08376v1](http://arxiv.org/abs/2605.08376v1)|
 |**2026-05-08**|**Benchmarking Fairness in Spiking Neural Networks: Data Bias, Spurious Features, and Hardware Effects**|Hudi He et al.|[2605.27407v1](http://arxiv.org/abs/2605.27407v1)|
@@ -3373,5 +3375,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
 
