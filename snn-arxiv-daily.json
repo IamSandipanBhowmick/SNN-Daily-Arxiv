@@ -1,10 +1,14 @@
 {
   "Spiking Neural Network": {
+    "2606.31781": "|**2026-06-30**|**SpikeLogBERT: Energy-Efficient Log Parsing Using Spiking Transformer Networks**|Thuan Bui et al.|[2606.31781v1](http://arxiv.org/abs/2606.31781v1)|\n",
+    "2606.31695": "|**2026-06-30**|**Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization**|Ruichen Ma et al.|[2606.31695v1](http://arxiv.org/abs/2606.31695v1)|\n",
     "2605.14252": "|**2026-06-29**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v2](http://arxiv.org/abs/2605.14252v2)|\n",
     "2606.30039": "|**2026-06-29**|**Mega: A 22 nm Convolutional Spiking Neural Network Accelerator Achieving 0.375 pJ/SOP for Efficient Edge Vision**|Rick Luiken et al.|[2606.30039v1](http://arxiv.org/abs/2606.30039v1)|\n",
+    "2606.30926": "|**2026-06-29**|**SpikON: A Dual-Parallel and Efficient Accelerator for Online Spiking Neural Networks Learning**|Peilin Chen et al.|[2606.30926v1](http://arxiv.org/abs/2606.30926v1)|\n",
     "2606.29099": "|**2026-06-27**|**Unified Complex-valued Neural Network: A Magnitude-Phase Computational Model for Event-Driven Neuromorphic Learning**|Reza Ahmadvand et al.|[2606.29099v1](http://arxiv.org/abs/2606.29099v1)|\n",
     "2606.27807": "|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|\n",
     "2605.08022": "|**2026-06-26**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et al.|[2605.08022v2](http://arxiv.org/abs/2605.08022v2)|\n",
+    "2606.30676": "|**2026-06-26**|**Criticality-Constrained Iterative Pruning for Energy-Efficient Spiking Neural Networks via Combined Importance Scoring**|Muhammad Hamza et al.|[2606.30676v1](http://arxiv.org/abs/2606.30676v1)|\n",
     "2606.26841": "|**2026-06-25**|**SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization**|Xiao Yang et al.|[2606.26841v1](http://arxiv.org/abs/2606.26841v1)|\n",
     "2606.26301": "|**2026-06-24**|**Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution**|M. Waqas et al.|[2606.26301v1](http://arxiv.org/abs/2606.26301v1)|\n",
     "2606.17775": "|**2026-06-24**|**A Neuromorphic Trigger for Efficient Audio Event Detection**|Benjamin Hatton et al.|[2606.17775v2](http://arxiv.org/abs/2606.17775v2)|\n",
