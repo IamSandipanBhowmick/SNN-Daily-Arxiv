@@ -1,4 +1,4 @@
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-02**|**Dendritic In-Context Learning in a Single-Layer Spiking Neural Network**|Juwei Shen et al.|[2607.02283v1](http://arxiv.org/abs/2607.02283v1)|
+|**2026-07-02**|**Electronic Bursting Neuron: design, equations and hardware implementation**|Lev V. Takaishvili et al.|[2607.02122v1](http://arxiv.org/abs/2607.02122v1)|
 |**2026-06-30**|**SpikeLogBERT: Energy-Efficient Log Parsing Using Spiking Transformer Networks**|Thuan Bui et al.|[2606.31781v1](http://arxiv.org/abs/2606.31781v1)|
 |**2026-06-30**|**Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization**|Ruichen Ma et al.|[2606.31695v1](http://arxiv.org/abs/2606.31695v1)|
 |**2026-06-29**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v2](http://arxiv.org/abs/2605.14252v2)|
@@ -3379,5 +3381,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260703>back to top</a>)</p>
 
