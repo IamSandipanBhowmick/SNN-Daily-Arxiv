@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,14 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-06**|**Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing**|Manish Kolachalam et al.|[2607.04921v1](http://arxiv.org/abs/2607.04921v1)|
+|**2026-07-05**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v3](http://arxiv.org/abs/2605.31027v3)|
+|**2026-07-04**|**EEG-Based Imagined Speech Decoding Using a Hybrid CNN-SNN Architecture**|Fatima Shalhoub et al.|[2607.03844v1](http://arxiv.org/abs/2607.03844v1)|
+|**2026-07-03**|**Online Data Reduction with Spiking Neural Networks: A Temporal-Coincidence Encoder and Distributed SNN for the ePIC dRICH Detector**|Pierpaolo Perticaroli et al.|[2607.03492v1](http://arxiv.org/abs/2607.03492v1)|
+|**2026-07-03**|**AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference**|Pierpaolo Perticaroli et al.|[2607.03191v1](http://arxiv.org/abs/2607.03191v1)|
 |**2026-07-02**|**Dendritic In-Context Learning in a Single-Layer Spiking Neural Network**|Juwei Shen et al.|[2607.02283v1](http://arxiv.org/abs/2607.02283v1)|
 |**2026-07-02**|**Electronic Bursting Neuron: design, equations and hardware implementation**|Lev V. Takaishvili et al.|[2607.02122v1](http://arxiv.org/abs/2607.02122v1)|
+|**2026-07-02**|**A Spiking Sequence Generator for Polar Trajectories on Neuromorphic Hardware**|William R. P. Nourse et al.|[2607.02753v1](http://arxiv.org/abs/2607.02753v1)|
 |**2026-06-30**|**SpikeLogBERT: Energy-Efficient Log Parsing Using Spiking Transformer Networks**|Thuan Bui et al.|[2606.31781v1](http://arxiv.org/abs/2606.31781v1)|
 |**2026-06-30**|**Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization**|Ruichen Ma et al.|[2606.31695v1](http://arxiv.org/abs/2606.31695v1)|
 |**2026-06-29**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et al.|[2605.14252v2](http://arxiv.org/abs/2605.14252v2)|
@@ -41,7 +47,6 @@
 |**2026-06-16**|**Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent**|Daye Kang et al.|[2604.00605v2](http://arxiv.org/abs/2604.00605v2)|
 |**2026-06-16**|**An Optimization Framework for Automated Assessment of Biological Plausibility of Spiking Neurons**|Sven Nitzsche et al.|[2606.17853v1](http://arxiv.org/abs/2606.17853v1)|
 |**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et al.|[2606.15898v1](http://arxiv.org/abs/2606.15898v1)|
-|**2026-06-14**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v2](http://arxiv.org/abs/2605.31027v2)|
 |**2026-06-12**|**A Composite Activation Function for Learning Stable Binary Representations**|Seokhun Park et al.|[2605.11558v2](http://arxiv.org/abs/2605.11558v2)|
 |**2026-06-12**|**SAFformer:Improving Spiking Transformer via Active Predictive Filtering**|Zequan Xie et al.|[2605.08270v2](http://arxiv.org/abs/2605.08270v2)|
 |**2026-06-12**|**Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment**|Guangzhi Tang et al.|[2606.14866v1](http://arxiv.org/abs/2606.14866v1)|
@@ -3381,5 +3386,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
 
