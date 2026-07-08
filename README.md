@@ -1,4 +1,4 @@
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-07**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v3](http://arxiv.org/abs/2606.20031v3)|
+|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et al.|[2607.06456v1](http://arxiv.org/abs/2607.06456v1)|
 |**2026-07-06**|**Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing**|Manish Kolachalam et al.|[2607.04921v1](http://arxiv.org/abs/2607.04921v1)|
+|**2026-07-06**|**The Pathwise Approach to Metastability and its Applications to Galves--Löcherbach Models**|Morgan André et al.|[2607.05652v1](http://arxiv.org/abs/2607.05652v1)|
 |**2026-07-05**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v3](http://arxiv.org/abs/2605.31027v3)|
 |**2026-07-04**|**EEG-Based Imagined Speech Decoding Using a Hybrid CNN-SNN Architecture**|Fatima Shalhoub et al.|[2607.03844v1](http://arxiv.org/abs/2607.03844v1)|
 |**2026-07-03**|**Online Data Reduction with Spiking Neural Networks: A Temporal-Coincidence Encoder and Distributed SNN for the ePIC dRICH Detector**|Pierpaolo Perticaroli et al.|[2607.03492v1](http://arxiv.org/abs/2607.03492v1)|
@@ -36,7 +39,6 @@
 |**2026-06-22**|**Emergence of Common Noise: Quantitative Conditional Propagation of Chaos**|Vlad Bally et al.|[2606.23433v1](http://arxiv.org/abs/2606.23433v1)|
 |**2026-06-22**|**Hopf bifurcation and stochastic spiking in an antiferromagnetic FitzHugh--Nagumo normal form**|D. Maroulakos et al.|[2606.23423v1](http://arxiv.org/abs/2606.23423v1)|
 |**2026-06-22**|**Neuromorphic Speech Enhancement with Dual-Branch Spiking Neural Networks**|Taiyu Meng et al.|[2606.23761v1](http://arxiv.org/abs/2606.23761v1)|
-|**2026-06-22**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v2](http://arxiv.org/abs/2606.20031v2)|
 |**2026-06-19**|**Soliton-like Waves in a Two-Dimensional Recurrent Spiking Neural Network with Weighted Spike-Timing-Dependent Plasticity**|Ch. Meessen et al.|[2606.21432v1](http://arxiv.org/abs/2606.21432v1)|
 |**2026-06-19**|**ExSpike: A General Full-Event Neuromorphic Architecture for Exploiting Irregular Sparsity with Event Compression**|Yuehai Chen et al.|[2606.20414v2](http://arxiv.org/abs/2606.20414v2)|
 |**2026-06-18**|**Hierarchical Pooling for Sheaf Neural Networks**|Dionisia Naddeo et al.|[2606.20932v1](http://arxiv.org/abs/2606.20932v1)|
@@ -3386,5 +3388,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
 
