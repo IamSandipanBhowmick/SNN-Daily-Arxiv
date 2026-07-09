@@ -1,4 +1,4 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et al.|[2607.07429v1](http://arxiv.org/abs/2607.07429v1)|
+|**2026-07-08**|**Recent highlights from the STAR Experiment**|Rutik Manikandhan et al.|[2607.07254v1](http://arxiv.org/abs/2607.07254v1)|
 |**2026-07-07**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v3](http://arxiv.org/abs/2606.20031v3)|
 |**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et al.|[2607.06456v1](http://arxiv.org/abs/2607.06456v1)|
 |**2026-07-06**|**Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing**|Manish Kolachalam et al.|[2607.04921v1](http://arxiv.org/abs/2607.04921v1)|
@@ -3388,5 +3390,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260709>back to top</a>)</p>
 
