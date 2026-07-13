@@ -1,4 +1,4 @@
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-10**|**Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection**|Jaesun Baek et al.|[2607.09115v1](http://arxiv.org/abs/2607.09115v1)|
+|**2026-07-09**|**Breaking Local-Minimum Traps in Spiking Neural Network-Based Solvers for CSPs via Parallel Tempering**|Recep Bugra Uludag et al.|[2607.08897v1](http://arxiv.org/abs/2607.08897v1)|
 |**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et al.|[2607.07429v1](http://arxiv.org/abs/2607.07429v1)|
 |**2026-07-08**|**Recent highlights from the STAR Experiment**|Rutik Manikandhan et al.|[2607.07254v1](http://arxiv.org/abs/2607.07254v1)|
 |**2026-07-07**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v3](http://arxiv.org/abs/2606.20031v3)|
@@ -3390,5 +3392,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260713>back to top</a>)</p>
 
