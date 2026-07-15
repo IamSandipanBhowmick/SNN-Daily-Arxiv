@@ -1,4 +1,4 @@
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,14 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-14**|**A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding**|Narayanan Shyam et al.|[2607.12901v1](http://arxiv.org/abs/2607.12901v1)|
+|**2026-07-14**|**Full-Path Nonlinear Modeling of Microwave Power Transmission Through Ionospheric Plasma for Space Solar Power Station**|Pengan Guo et al.|[2607.12294v1](http://arxiv.org/abs/2607.12294v1)|
 |**2026-07-13**|**Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection**|Jaesun Baek et al.|[2607.09115v2](http://arxiv.org/abs/2607.09115v2)|
 |**2026-07-13**|**Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks**|Dewei Bai et al.|[2605.01291v3](http://arxiv.org/abs/2605.01291v3)|
 |**2026-07-13**|**Event-based Neural Decoding for Neuroprosthetic Motor Control**|Khaleelulla Khan Nazeer et al.|[2607.11445v1](http://arxiv.org/abs/2607.11445v1)|
 |**2026-07-13**|**From Wireless SNNs to SN P Systems: A Low-Energy Rule-Based Conversion**|Pietro Savazzi et al.|[2607.11428v1](http://arxiv.org/abs/2607.11428v1)|
 |**2026-07-13**|**Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection**|Kaiwen Tang et al.|[2607.11065v1](http://arxiv.org/abs/2607.11065v1)|
+|**2026-07-13**|**SpikeDS: Dual Sparsity Spikformer for Perineural Invasion Prediction in 3D MRI**|Induk Um et al.|[2607.11986v1](http://arxiv.org/abs/2607.11986v1)|
 |**2026-07-11**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et al.|[2607.06456v2](http://arxiv.org/abs/2607.06456v2)|
 |**2026-07-11**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v4](http://arxiv.org/abs/2605.31027v4)|
 |**2026-07-11**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et al.|[2604.14096v2](http://arxiv.org/abs/2604.14096v2)|
@@ -25,6 +28,7 @@
 |**2026-07-07**|**A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems**|Junzhe Xu et al.|[2606.20031v3](http://arxiv.org/abs/2606.20031v3)|
 |**2026-07-06**|**Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing**|Manish Kolachalam et al.|[2607.04921v1](http://arxiv.org/abs/2607.04921v1)|
 |**2026-07-06**|**The Pathwise Approach to Metastability and its Applications to Galves--Löcherbach Models**|Morgan André et al.|[2607.05652v1](http://arxiv.org/abs/2607.05652v1)|
+|**2026-07-05**|**Burst Spiking Neural Networks**|Jiahong Zhang et al.|[2607.11914v1](http://arxiv.org/abs/2607.11914v1)|
 |**2026-07-04**|**EEG-Based Imagined Speech Decoding Using a Hybrid CNN-SNN Architecture**|Fatima Shalhoub et al.|[2607.03844v1](http://arxiv.org/abs/2607.03844v1)|
 |**2026-07-03**|**Online Data Reduction with Spiking Neural Networks: A Temporal-Coincidence Encoder and Distributed SNN for the ePIC dRICH Detector**|Pierpaolo Perticaroli et al.|[2607.03492v1](http://arxiv.org/abs/2607.03492v1)|
 |**2026-07-03**|**AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference**|Pierpaolo Perticaroli et al.|[2607.03191v1](http://arxiv.org/abs/2607.03191v1)|
@@ -3395,5 +3399,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
