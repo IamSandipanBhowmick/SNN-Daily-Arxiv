@@ -1,4 +1,4 @@
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|
+|**2026-07-15**|**RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics**|Kui Jiang et al.|[2607.13802v1](http://arxiv.org/abs/2607.13802v1)|
+|**2026-07-15**|**Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning**|Altzi Tsanko et al.|[2607.13584v1](http://arxiv.org/abs/2607.13584v1)|
 |**2026-07-14**|**A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding**|Narayanan Shyam et al.|[2607.12901v1](http://arxiv.org/abs/2607.12901v1)|
 |**2026-07-14**|**Full-Path Nonlinear Modeling of Microwave Power Transmission Through Ionospheric Plasma for Space Solar Power Station**|Pengan Guo et al.|[2607.12294v1](http://arxiv.org/abs/2607.12294v1)|
 |**2026-07-13**|**Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection**|Jaesun Baek et al.|[2607.09115v2](http://arxiv.org/abs/2607.09115v2)|
@@ -216,7 +219,6 @@
 |**2026-03-25**|**Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses**|Wuque Cai et al.|[2603.24692v1](http://arxiv.org/abs/2603.24692v1)|
 |**2026-03-25**|**Brain-Inspired Multimodal Spiking Neural Network for Image-Text Retrieval**|Xintao Zong et al.|[2603.26787v1](http://arxiv.org/abs/2603.26787v1)|
 |**2026-03-25**|**Efficient Encrypted Computation in Convolutional Spiking Neural Networks with TFHE**|Longfei Guo et al.|[2603.26781v1](http://arxiv.org/abs/2603.26781v1)|
-|**2026-03-24**|**A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency**|Yi Lu et al.|[2603.23206v1](http://arxiv.org/abs/2603.23206v1)|
 |**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et al.|[2603.22727v1](http://arxiv.org/abs/2603.22727v1)|
 |**2026-03-24**|**Event-Driven Neuromorphic Vision Enables Energy-Efficient Visual Place Recognition**|Geoffroy Keime et al.|[2604.03277v1](http://arxiv.org/abs/2604.03277v1)|
 |**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|
@@ -3399,5 +3401,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
 
