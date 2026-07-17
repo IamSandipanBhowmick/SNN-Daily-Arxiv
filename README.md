@@ -1,4 +1,4 @@
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et al.|[2607.14672v1](http://arxiv.org/abs/2607.14672v1)|
 |**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|
 |**2026-07-15**|**RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics**|Kui Jiang et al.|[2607.13802v1](http://arxiv.org/abs/2607.13802v1)|
 |**2026-07-15**|**Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning**|Altzi Tsanko et al.|[2607.13584v1](http://arxiv.org/abs/2607.13584v1)|
@@ -3401,5 +3402,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260717>back to top</a>)</p>
 

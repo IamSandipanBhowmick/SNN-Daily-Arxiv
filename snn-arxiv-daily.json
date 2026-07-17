@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2607.14672": "|**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et al.|[2607.14672v1](http://arxiv.org/abs/2607.14672v1)|\n",
     "2603.23206": "|**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|\n",
     "2607.13802": "|**2026-07-15**|**RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics**|Kui Jiang et al.|[2607.13802v1](http://arxiv.org/abs/2607.13802v1)|\n",
     "2607.13584": "|**2026-07-15**|**Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning**|Altzi Tsanko et al.|[2607.13584v1](http://arxiv.org/abs/2607.13584v1)|\n",
