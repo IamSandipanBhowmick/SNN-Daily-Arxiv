@@ -1,4 +1,4 @@
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|
+|**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|
 |**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et al.|[2607.14672v1](http://arxiv.org/abs/2607.14672v1)|
 |**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|
 |**2026-07-15**|**RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics**|Kui Jiang et al.|[2607.13802v1](http://arxiv.org/abs/2607.13802v1)|
@@ -23,6 +25,7 @@
 |**2026-07-13**|**From Wireless SNNs to SN P Systems: A Low-Energy Rule-Based Conversion**|Pietro Savazzi et al.|[2607.11428v1](http://arxiv.org/abs/2607.11428v1)|
 |**2026-07-13**|**Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection**|Kaiwen Tang et al.|[2607.11065v1](http://arxiv.org/abs/2607.11065v1)|
 |**2026-07-13**|**SpikeDS: Dual Sparsity Spikformer for Perineural Invasion Prediction in 3D MRI**|Induk Um et al.|[2607.11986v1](http://arxiv.org/abs/2607.11986v1)|
+|**2026-07-13**|**Efficient EEG Seizure Detection Using INT8 Quantization, Channel Pruning, and Spiking Neural Networks**|Kartikey Ahlawat et al.|[2607.16296v1](http://arxiv.org/abs/2607.16296v1)|
 |**2026-07-11**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et al.|[2607.06456v2](http://arxiv.org/abs/2607.06456v2)|
 |**2026-07-11**|**Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs**|Qihong Yang et al.|[2605.31027v4](http://arxiv.org/abs/2605.31027v4)|
 |**2026-07-11**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et al.|[2604.14096v2](http://arxiv.org/abs/2604.14096v2)|
@@ -3402,5 +3405,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
