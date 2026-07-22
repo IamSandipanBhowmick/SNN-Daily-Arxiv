@@ -1,4 +1,4 @@
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|
 |**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|
+|**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|
 |**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|
 |**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et al.|[2607.14672v1](http://arxiv.org/abs/2607.14672v1)|
 |**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|
@@ -3405,5 +3407,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
 

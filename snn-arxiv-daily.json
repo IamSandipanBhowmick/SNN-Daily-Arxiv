@@ -1,6 +1,8 @@
 {
   "Spiking Neural Network": {
+    "2607.19170": "|**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|\n",
     "2607.17456": "|**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|\n",
+    "2607.18412": "|**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|\n",
     "2607.16834": "|**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|\n",
     "2607.14672": "|**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et al.|[2607.14672v1](http://arxiv.org/abs/2607.14672v1)|\n",
     "2603.23206": "|**2026-07-15**|**Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks**|Yi Lu et al.|[2603.23206v2](http://arxiv.org/abs/2603.23206v2)|\n",
