@@ -1,4 +1,4 @@
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,12 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-22**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v2](http://arxiv.org/abs/2605.18333v2)|
+|**2026-07-22**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et al.|[2604.21487v2](http://arxiv.org/abs/2604.21487v2)|
+|**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et al.|[2607.19879v1](http://arxiv.org/abs/2607.19879v1)|
+|**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et al.|[2607.19875v1](http://arxiv.org/abs/2607.19875v1)|
 |**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|
+|**2026-07-21**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v1](http://arxiv.org/abs/2607.19514v1)|
 |**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|
 |**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|
 |**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|
@@ -127,7 +132,6 @@
 |**2026-05-20**|**E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference**|Ankit Kumar Tenwar et al.|[2605.20717v1](http://arxiv.org/abs/2605.20717v1)|
 |**2026-05-19**|**Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers**|Xinzhe Yuan et al.|[2605.20289v1](http://arxiv.org/abs/2605.20289v1)|
 |**2026-05-18**|**Reinterpreting Safety Thresholds as Neuron Spiking Thresholds**|Enrico Del Re et al.|[2605.30368v1](http://arxiv.org/abs/2605.30368v1)|
-|**2026-05-18**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v1](http://arxiv.org/abs/2605.18333v1)|
 |**2026-05-18**|**Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks**|Alessio Caviglia et al.|[2605.18003v1](http://arxiv.org/abs/2605.18003v1)|
 |**2026-05-17**|**Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions**|Esila Keskin et al.|[2605.17399v1](http://arxiv.org/abs/2605.17399v1)|
 |**2026-05-16**|**Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations**|Phuoc-Toan Huynh et al.|[2605.17107v1](http://arxiv.org/abs/2605.17107v1)|
@@ -176,7 +180,6 @@
 |**2026-04-26**|**Generalization Bounds of Spiking Neural Networks via Rademacher Complexity**|Shao-Qun Zhang et al.|[2605.02927v1](http://arxiv.org/abs/2605.02927v1)|
 |**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|
 |**2026-04-24**|**Hardware-Software Co-Design for Event-Driven SNN Deployment on Low-Cost Neuromorphic FPGAs**|Jiwoon Lee et al.|[2604.22179v1](http://arxiv.org/abs/2604.22179v1)|
-|**2026-04-23**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et al.|[2604.21487v1](http://arxiv.org/abs/2604.21487v1)|
 |**2026-04-23**|**Shooting Neutrons at Neurons: Radiation Testing of a Spiking Neural Network on Flash-Based FPGAs**|Wim Nijsink et al.|[2605.00030v1](http://arxiv.org/abs/2605.00030v1)|
 |**2026-04-22**|**Impact of nuclear deformation on particle production in $Ne+Ne$ collisions at \texorpdfstring{\five}{sqrt(sNN)=5.36 TeV} from AMPT-SM**|M. U. Ashraf et al.|[2604.20152v1](http://arxiv.org/abs/2604.20152v1)|
 |**2026-04-21**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v2](http://arxiv.org/abs/2601.16118v2)|**[link](http://arxiv.org/abs/2601.16118v2)**|
@@ -3407,5 +3410,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
 
