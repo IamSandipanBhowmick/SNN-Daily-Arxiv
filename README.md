@@ -1,4 +1,4 @@
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,12 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-23**|**Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation**|Mohamed Khair Altrabulsi et al.|[2605.20801v2](http://arxiv.org/abs/2605.20801v2)|
 |**2026-07-22**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v2](http://arxiv.org/abs/2605.18333v2)|
 |**2026-07-22**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et al.|[2604.21487v2](http://arxiv.org/abs/2604.21487v2)|
 |**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et al.|[2607.19879v1](http://arxiv.org/abs/2607.19879v1)|
 |**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et al.|[2607.19875v1](http://arxiv.org/abs/2607.19875v1)|
+|**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et al.|[2607.20699v1](http://arxiv.org/abs/2607.20699v1)|
 |**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|
 |**2026-07-21**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v1](http://arxiv.org/abs/2607.19514v1)|
 |**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|
@@ -128,7 +130,6 @@
 |**2026-05-21**|**Learning sequence timing and control of replay speed in networks of spiking neurons**|Melissa Lober et al.|[2605.22523v1](http://arxiv.org/abs/2605.22523v1)|
 |**2026-05-20**|**Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models**|Po-Han Chiang et al.|[2604.01295v2](http://arxiv.org/abs/2604.01295v2)|
 |**2026-05-20**|**ELSA: An ELastic SNN Inference Architecture for Efficient Neuromorphic Computing**|Kang You et al.|[2605.20802v1](http://arxiv.org/abs/2605.20802v1)|
-|**2026-05-20**|**Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation**|Mohamed Khair Altrabulsi et al.|[2605.20801v1](http://arxiv.org/abs/2605.20801v1)|
 |**2026-05-20**|**E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference**|Ankit Kumar Tenwar et al.|[2605.20717v1](http://arxiv.org/abs/2605.20717v1)|
 |**2026-05-19**|**Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers**|Xinzhe Yuan et al.|[2605.20289v1](http://arxiv.org/abs/2605.20289v1)|
 |**2026-05-18**|**Reinterpreting Safety Thresholds as Neuron Spiking Thresholds**|Enrico Del Re et al.|[2605.30368v1](http://arxiv.org/abs/2605.30368v1)|
@@ -3410,5 +3411,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260724>back to top</a>)</p>
 
