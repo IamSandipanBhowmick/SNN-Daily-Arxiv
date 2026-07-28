@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2607.24396": "|**2026-07-27**|**The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing**|Stefan Scholze et al.|[2607.24396v1](http://arxiv.org/abs/2607.24396v1)|\n",
     "2607.22155": "|**2026-07-24**|**Neuromorphic Non-Orthogonal Multiple Access for Parallel Remote Inference via Vector Symbolic Architecture**|Jiechen Chen et al.|[2607.22155v1](http://arxiv.org/abs/2607.22155v1)|\n",
     "2605.20801": "|**2026-07-23**|**Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation**|Mohamed Khair Altrabulsi et al.|[2605.20801v2](http://arxiv.org/abs/2605.20801v2)|\n",
     "2605.18333": "|**2026-07-22**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v2](http://arxiv.org/abs/2605.18333v2)|\n",
