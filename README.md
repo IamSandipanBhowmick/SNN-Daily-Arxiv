@@ -1,4 +1,4 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,6 +12,7 @@
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
 |**2026-07-27**|**The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing**|Stefan Scholze et al.|[2607.24396v1](http://arxiv.org/abs/2607.24396v1)|
+|**2026-07-27**|**Ultra-Low-Energy Open-Circuit Fault Diagnosis for Three-Phase Inverters**|Xiaoyi Lei et al.|[2607.25037v1](http://arxiv.org/abs/2607.25037v1)|
 |**2026-07-24**|**Neuromorphic Non-Orthogonal Multiple Access for Parallel Remote Inference via Vector Symbolic Architecture**|Jiechen Chen et al.|[2607.22155v1](http://arxiv.org/abs/2607.22155v1)|
 |**2026-07-23**|**Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation**|Mohamed Khair Altrabulsi et al.|[2605.20801v2](http://arxiv.org/abs/2605.20801v2)|
 |**2026-07-22**|**QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting**|Alberto Marchisio et al.|[2605.18333v2](http://arxiv.org/abs/2605.18333v2)|
@@ -3413,5 +3414,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
