@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-30**|**Temporal Poisoning: Clean-Label Backdoors via Event Redistribution in SNNs**|Roberto Riaño et al.|[2607.28075v1](http://arxiv.org/abs/2607.28075v1)|
+|**2026-07-30**|**Driving up Inference Energy on SNNs: Per-Sample and Universal Sponge Attacks**|Spyridon Raptis et al.|[2607.27990v1](http://arxiv.org/abs/2607.27990v1)|
 |**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et al.|[2607.26703v1](http://arxiv.org/abs/2607.26703v1)|
 |**2026-07-29**|**The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy**|Zeyu Wang et al.|[2607.26648v1](http://arxiv.org/abs/2607.26648v1)|
 |**2026-07-27**|**The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing**|Stefan Scholze et al.|[2607.24396v1](http://arxiv.org/abs/2607.24396v1)|
@@ -3416,5 +3418,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
