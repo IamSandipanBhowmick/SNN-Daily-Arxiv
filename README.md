@@ -1,4 +1,4 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-07-31**|**Detecting AI-Generated Videos with Spiking Neural Networks**|Minsuk Jang et al.|[2605.05895v2](http://arxiv.org/abs/2605.05895v2)|
+|**2026-07-31**|**Parameter-Efficient Fine-Tuning for Spiking Point Cloud Models**|Zihao Guo et al.|[2607.29048v1](http://arxiv.org/abs/2607.29048v1)|
 |**2026-07-30**|**Temporal Poisoning: Clean-Label Backdoors via Event Redistribution in SNNs**|Roberto Riaño et al.|[2607.28075v1](http://arxiv.org/abs/2607.28075v1)|
 |**2026-07-30**|**Driving up Inference Energy on SNNs: Per-Sample and Universal Sponge Attacks**|Spyridon Raptis et al.|[2607.27990v1](http://arxiv.org/abs/2607.27990v1)|
 |**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et al.|[2607.26703v1](http://arxiv.org/abs/2607.26703v1)|
@@ -169,7 +171,6 @@
 |**2026-05-08**|**Benchmarking Fairness in Spiking Neural Networks: Data Bias, Spurious Features, and Hardware Effects**|Hudi He et al.|[2605.27407v1](http://arxiv.org/abs/2605.27407v1)|
 |**2026-05-07**|**ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs**|Md Abrar Jahin et.al.|[2602.01124v3](http://arxiv.org/abs/2602.01124v3)|**[link](http://arxiv.org/abs/2602.01124v3)**|
 |**2026-05-07**|**Neuromorphic visual attention for Sign-language recognition on SpiNNaker**|Sarka Liskova et al.|[2605.06005v1](http://arxiv.org/abs/2605.06005v1)|
-|**2026-05-07**|**Detecting AI-Generated Videos with Spiking Neural Networks**|Minsuk Jang et al.|[2605.05895v1](http://arxiv.org/abs/2605.05895v1)|
 |**2026-05-06**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v3](http://arxiv.org/abs/2601.00020v3)|**[link](http://arxiv.org/abs/2601.00020v3)**|
 |**2026-05-04**|**Elastic Spiking Transformers for Efficient Gesture Understanding**|Alberto Ancilotto et al.|[2605.13869v1](http://arxiv.org/abs/2605.13869v1)|
 |**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et al.|[2605.01937v1](http://arxiv.org/abs/2605.01937v1)|
@@ -3418,5 +3419,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260803>back to top</a>)</p>
 
