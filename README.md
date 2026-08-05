@@ -1,4 +1,4 @@
-## Updated on 2026.08.03
+## Updated on 2026.08.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,13 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et al.|[2608.03324v1](http://arxiv.org/abs/2608.03324v1)|
+|**2026-08-03**|**Benchmarking Sheaf Neural Networks for Inductive Tasks**|Stefano Fiorini et al.|[2608.02558v1](http://arxiv.org/abs/2608.02558v1)|
+|**2026-08-03**|**SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning**|Shengkai Hu et al.|[2608.02290v1](http://arxiv.org/abs/2608.02290v1)|
+|**2026-08-03**|**Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**|Xiubo Liang et al.|[2608.01646v1](http://arxiv.org/abs/2608.01646v1)|
+|**2026-08-03**|**SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks**|Xiubo Liang et al.|[2608.01622v1](http://arxiv.org/abs/2608.01622v1)|
+|**2026-08-02**|**Breaking Diversity Collapse in Spiking Pseudo-Ensembles for Efficient OOD Detection in Remote Sensing**|Srinivas Anumasa et al.|[2608.01090v1](http://arxiv.org/abs/2608.01090v1)|
+|**2026-08-01**|**A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference**|Reza Ansari et al.|[2608.00595v1](http://arxiv.org/abs/2608.00595v1)|
 |**2026-07-31**|**Detecting AI-Generated Videos with Spiking Neural Networks**|Minsuk Jang et al.|[2605.05895v2](http://arxiv.org/abs/2605.05895v2)|
 |**2026-07-31**|**Parameter-Efficient Fine-Tuning for Spiking Point Cloud Models**|Zihao Guo et al.|[2607.29048v1](http://arxiv.org/abs/2607.29048v1)|
 |**2026-07-30**|**Temporal Poisoning: Clean-Label Backdoors via Event Redistribution in SNNs**|Roberto Riaño et al.|[2607.28075v1](http://arxiv.org/abs/2607.28075v1)|
@@ -3419,5 +3426,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
 
