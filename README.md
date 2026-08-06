@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**|Jiahong Zhang et al.|[2608.05078v1](http://arxiv.org/abs/2608.05078v1)|
 |**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et al.|[2608.03324v1](http://arxiv.org/abs/2608.03324v1)|
 |**2026-08-03**|**Benchmarking Sheaf Neural Networks for Inductive Tasks**|Stefano Fiorini et al.|[2608.02558v1](http://arxiv.org/abs/2608.02558v1)|
 |**2026-08-03**|**SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning**|Shengkai Hu et al.|[2608.02290v1](http://arxiv.org/abs/2608.02290v1)|
@@ -3426,5 +3427,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
