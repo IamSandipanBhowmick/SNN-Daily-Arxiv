@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2608.07066": "|**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v1](http://arxiv.org/abs/2608.07066v1)|\n",
     "2608.05078": "|**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**|Jiahong Zhang et al.|[2608.05078v1](http://arxiv.org/abs/2608.05078v1)|\n",
     "2608.03324": "|**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et al.|[2608.03324v1](http://arxiv.org/abs/2608.03324v1)|\n",
     "2608.02558": "|**2026-08-03**|**Benchmarking Sheaf Neural Networks for Inductive Tasks**|Stefano Fiorini et al.|[2608.02558v1](http://arxiv.org/abs/2608.02558v1)|\n",
