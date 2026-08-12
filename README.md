@@ -1,4 +1,4 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et al.|[2608.10640v1](http://arxiv.org/abs/2608.10640v1)|
+|**2026-08-09**|**SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks**|Prasanna Date et al.|[2608.08479v1](http://arxiv.org/abs/2608.08479v1)|
+|**2026-08-08**|**The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing**|Maksim Bazhenov et al.|[2608.08317v1](http://arxiv.org/abs/2608.08317v1)|
 |**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v1](http://arxiv.org/abs/2608.07066v1)|
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**|Jiahong Zhang et al.|[2608.05078v1](http://arxiv.org/abs/2608.05078v1)|
 |**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et al.|[2608.03324v1](http://arxiv.org/abs/2608.03324v1)|
@@ -3428,5 +3431,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
 
