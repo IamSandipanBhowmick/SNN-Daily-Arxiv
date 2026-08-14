@@ -1,4 +1,4 @@
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-13**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v1](http://arxiv.org/abs/2608.12839v1)|
 |**2026-08-12**|**A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields**|Mingtao Xia et al.|[2608.11613v1](http://arxiv.org/abs/2608.11613v1)|
+|**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et al.|[2608.12500v1](http://arxiv.org/abs/2608.12500v1)|
 |**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et al.|[2608.10640v1](http://arxiv.org/abs/2608.10640v1)|
 |**2026-08-09**|**SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks**|Prasanna Date et al.|[2608.08479v1](http://arxiv.org/abs/2608.08479v1)|
 |**2026-08-08**|**The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing**|Maksim Bazhenov et al.|[2608.08317v1](http://arxiv.org/abs/2608.08317v1)|
@@ -3432,5 +3434,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
