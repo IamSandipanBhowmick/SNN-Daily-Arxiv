@@ -1,6 +1,10 @@
 {
   "Spiking Neural Network": {
+    "2608.14027": "|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|\n",
+    "2608.13985": "|**2026-08-14**|**Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface**|Jiho Park et al.|[2608.13985v1](http://arxiv.org/abs/2608.13985v1)|\n",
+    "2608.13952": "|**2026-08-14**|**Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment**|Zirui Chen et al.|[2608.13952v1](http://arxiv.org/abs/2608.13952v1)|\n",
     "2608.12839": "|**2026-08-13**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v1](http://arxiv.org/abs/2608.12839v1)|\n",
+    "2608.13702": "|**2026-08-13**|**SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers**|Kiran Nair et al.|[2608.13702v1](http://arxiv.org/abs/2608.13702v1)|\n",
     "2608.11613": "|**2026-08-12**|**A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields**|Mingtao Xia et al.|[2608.11613v1](http://arxiv.org/abs/2608.11613v1)|\n",
     "2608.12500": "|**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et al.|[2608.12500v1](http://arxiv.org/abs/2608.12500v1)|\n",
     "2608.10640": "|**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et al.|[2608.10640v1](http://arxiv.org/abs/2608.10640v1)|\n",
