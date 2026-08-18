@@ -1,4 +1,4 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,12 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-17**|**Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion**|Junwen Dong et al.|[2608.16180v1](http://arxiv.org/abs/2608.16180v1)|
+|**2026-08-16**|**Conformal Decode-or-Erase: Certified Spiking Decoding for Short-Packet URLLC**|Zihang Song et al.|[2608.15751v1](http://arxiv.org/abs/2608.15751v1)|
+|**2026-08-15**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v2](http://arxiv.org/abs/2608.12839v2)|
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|
 |**2026-08-14**|**Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface**|Jiho Park et al.|[2608.13985v1](http://arxiv.org/abs/2608.13985v1)|
 |**2026-08-14**|**Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment**|Zirui Chen et al.|[2608.13952v1](http://arxiv.org/abs/2608.13952v1)|
-|**2026-08-13**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v1](http://arxiv.org/abs/2608.12839v1)|
 |**2026-08-13**|**SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers**|Kiran Nair et al.|[2608.13702v1](http://arxiv.org/abs/2608.13702v1)|
 |**2026-08-12**|**A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields**|Mingtao Xia et al.|[2608.11613v1](http://arxiv.org/abs/2608.11613v1)|
 |**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et al.|[2608.12500v1](http://arxiv.org/abs/2608.12500v1)|
@@ -3438,5 +3440,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 
