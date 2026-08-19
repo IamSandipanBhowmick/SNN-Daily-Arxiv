@@ -1,4 +1,4 @@
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-18**|**Noisy group neurons with synchronous resetting for high-performance spiking neural networks**|Yajie Zhai et al.|[2608.17394v1](http://arxiv.org/abs/2608.17394v1)|
 |**2026-08-17**|**Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion**|Junwen Dong et al.|[2608.16180v1](http://arxiv.org/abs/2608.16180v1)|
 |**2026-08-16**|**Conformal Decode-or-Erase: Certified Spiking Decoding for Short-Packet URLLC**|Zihang Song et al.|[2608.15751v1](http://arxiv.org/abs/2608.15751v1)|
 |**2026-08-15**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v2](http://arxiv.org/abs/2608.12839v2)|
@@ -3440,5 +3441,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 

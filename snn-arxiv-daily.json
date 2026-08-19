@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2608.17394": "|**2026-08-18**|**Noisy group neurons with synchronous resetting for high-performance spiking neural networks**|Yajie Zhai et al.|[2608.17394v1](http://arxiv.org/abs/2608.17394v1)|\n",
     "2608.16180": "|**2026-08-17**|**Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion**|Junwen Dong et al.|[2608.16180v1](http://arxiv.org/abs/2608.16180v1)|\n",
     "2608.15751": "|**2026-08-16**|**Conformal Decode-or-Erase: Certified Spiking Decoding for Short-Packet URLLC**|Zihang Song et al.|[2608.15751v1](http://arxiv.org/abs/2608.15751v1)|\n",
     "2608.12839": "|**2026-08-15**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et al.|[2608.12839v2](http://arxiv.org/abs/2608.12839v2)|\n",
