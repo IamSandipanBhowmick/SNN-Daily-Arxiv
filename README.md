@@ -1,4 +1,4 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-19**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v2](http://arxiv.org/abs/2606.20151v2)|
+|**2026-08-19**|**APEX: A Dual-Sparsity Accelerator for Precise and Efficient SNN Inference**|Devgokul Bawa Venkatesh et al.|[2608.19046v1](http://arxiv.org/abs/2608.19046v1)|
 |**2026-08-18**|**Noisy group neurons with synchronous resetting for high-performance spiking neural networks**|Yajie Zhai et al.|[2608.17394v1](http://arxiv.org/abs/2608.17394v1)|
 |**2026-08-17**|**Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion**|Junwen Dong et al.|[2608.16180v1](http://arxiv.org/abs/2608.16180v1)|
 |**2026-08-16**|**Conformal Decode-or-Erase: Certified Spiking Decoding for Short-Packet URLLC**|Zihang Song et al.|[2608.15751v1](http://arxiv.org/abs/2608.15751v1)|
@@ -102,7 +104,6 @@
 |**2026-06-19**|**Soliton-like Waves in a Two-Dimensional Recurrent Spiking Neural Network with Weighted Spike-Timing-Dependent Plasticity**|Ch. Meessen et al.|[2606.21432v1](http://arxiv.org/abs/2606.21432v1)|
 |**2026-06-19**|**ExSpike: A General Full-Event Neuromorphic Architecture for Exploiting Irregular Sparsity with Event Compression**|Yuehai Chen et al.|[2606.20414v2](http://arxiv.org/abs/2606.20414v2)|
 |**2026-06-18**|**Hierarchical Pooling for Sheaf Neural Networks**|Dionisia Naddeo et al.|[2606.20932v1](http://arxiv.org/abs/2606.20932v1)|
-|**2026-06-18**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v1](http://arxiv.org/abs/2606.20151v1)|
 |**2026-06-17**|**Adaptive Speech-to-Spike Encoding for Spiking Neural Networks**|Taharim Rahman Anon et al.|[2606.19039v1](http://arxiv.org/abs/2606.19039v1)|
 |**2026-06-17**|**Low-Cost Neuromorphic Fall Detection Using Synthetic Event Data and Hybrid SNNs**|Guillermo Rojas et al.|[2606.18732v1](http://arxiv.org/abs/2606.18732v1)|
 |**2026-06-17**|**Spiking Pyramid Wavelet Transformation for High-efficient and Low-energy Image Restoration**|Chen Zhao et al.|[2606.18644v1](http://arxiv.org/abs/2606.18644v1)|
@@ -3441,5 +3442,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260820>back to top</a>)</p>
 
