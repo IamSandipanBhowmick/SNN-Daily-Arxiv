@@ -1,4 +1,4 @@
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,7 @@
 |**2026-08-13**|**SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers**|Kiran Nair et al.|[2608.13702v1](http://arxiv.org/abs/2608.13702v1)|
 |**2026-08-12**|**A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields**|Mingtao Xia et al.|[2608.11613v1](http://arxiv.org/abs/2608.11613v1)|
 |**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et al.|[2608.12500v1](http://arxiv.org/abs/2608.12500v1)|
+|**2026-08-12**|**BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural Networks**|Linliang Chen et al.|[2608.19239v1](http://arxiv.org/abs/2608.19239v1)|
 |**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et al.|[2608.10640v1](http://arxiv.org/abs/2608.10640v1)|
 |**2026-08-09**|**SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks**|Prasanna Date et al.|[2608.08479v1](http://arxiv.org/abs/2608.08479v1)|
 |**2026-08-08**|**The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing**|Maksim Bazhenov et al.|[2608.08317v1](http://arxiv.org/abs/2608.08317v1)|
@@ -3442,5 +3443,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260821>back to top</a>)</p>
 
