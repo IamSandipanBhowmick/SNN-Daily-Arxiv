@@ -1,5 +1,7 @@
 {
   "Spiking Neural Network": {
+    "2608.21223": "|**2026-08-21**|**Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers**|Tengteng Lei et al.|[2608.21223v1](http://arxiv.org/abs/2608.21223v1)|\n",
+    "2608.21124": "|**2026-08-21**|**Neuromorphic Infrared Fibre-Optic Event-Based Sensing with Fast and Efficient Photonic-Electronic Spiking Neurons**|Dylan Black et al.|[2608.21124v1](http://arxiv.org/abs/2608.21124v1)|\n",
     "2606.20151": "|**2026-08-19**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v2](http://arxiv.org/abs/2606.20151v2)|\n",
     "2608.19046": "|**2026-08-19**|**APEX: A Dual-Sparsity Accelerator for Precise and Efficient SNN Inference**|Devgokul Bawa Venkatesh et al.|[2608.19046v1](http://arxiv.org/abs/2608.19046v1)|\n",
     "2608.17394": "|**2026-08-18**|**Noisy group neurons with synchronous resetting for high-performance spiking neural networks**|Yajie Zhai et al.|[2608.17394v1](http://arxiv.org/abs/2608.17394v1)|\n",

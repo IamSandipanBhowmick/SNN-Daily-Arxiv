@@ -1,4 +1,4 @@
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-21**|**Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers**|Tengteng Lei et al.|[2608.21223v1](http://arxiv.org/abs/2608.21223v1)|
+|**2026-08-21**|**Neuromorphic Infrared Fibre-Optic Event-Based Sensing with Fast and Efficient Photonic-Electronic Spiking Neurons**|Dylan Black et al.|[2608.21124v1](http://arxiv.org/abs/2608.21124v1)|
 |**2026-08-19**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v2](http://arxiv.org/abs/2606.20151v2)|
 |**2026-08-19**|**APEX: A Dual-Sparsity Accelerator for Precise and Efficient SNN Inference**|Devgokul Bawa Venkatesh et al.|[2608.19046v1](http://arxiv.org/abs/2608.19046v1)|
 |**2026-08-18**|**Noisy group neurons with synchronous resetting for high-performance spiking neural networks**|Yajie Zhai et al.|[2608.17394v1](http://arxiv.org/abs/2608.17394v1)|
@@ -3443,5 +3445,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
 
