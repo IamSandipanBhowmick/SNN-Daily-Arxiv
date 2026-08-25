@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-24**|**Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing**|Jessica Hunter et al.|[2608.22729v1](http://arxiv.org/abs/2608.22729v1)|
+|**2026-08-22**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v2](http://arxiv.org/abs/2607.19514v2)|
+|**2026-08-22**|**Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery**|Gwenevere Frank et al.|[2608.22072v1](http://arxiv.org/abs/2608.22072v1)|
 |**2026-08-21**|**Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers**|Tengteng Lei et al.|[2608.21223v1](http://arxiv.org/abs/2608.21223v1)|
 |**2026-08-21**|**Neuromorphic Infrared Fibre-Optic Event-Based Sensing with Fast and Efficient Photonic-Electronic Spiking Neurons**|Dylan Black et al.|[2608.21124v1](http://arxiv.org/abs/2608.21124v1)|
 |**2026-08-19**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v2](http://arxiv.org/abs/2606.20151v2)|
@@ -54,7 +57,6 @@
 |**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et al.|[2607.19875v1](http://arxiv.org/abs/2607.19875v1)|
 |**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et al.|[2607.20699v1](http://arxiv.org/abs/2607.20699v1)|
 |**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|
-|**2026-07-21**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v1](http://arxiv.org/abs/2607.19514v1)|
 |**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|
 |**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|
 |**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|
@@ -3445,5 +3447,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
 

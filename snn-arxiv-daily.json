@@ -1,5 +1,8 @@
 {
   "Spiking Neural Network": {
+    "2608.22729": "|**2026-08-24**|**Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing**|Jessica Hunter et al.|[2608.22729v1](http://arxiv.org/abs/2608.22729v1)|\n",
+    "2607.19514": "|**2026-08-22**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v2](http://arxiv.org/abs/2607.19514v2)|\n",
+    "2608.22072": "|**2026-08-22**|**Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery**|Gwenevere Frank et al.|[2608.22072v1](http://arxiv.org/abs/2608.22072v1)|\n",
     "2608.21223": "|**2026-08-21**|**Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers**|Tengteng Lei et al.|[2608.21223v1](http://arxiv.org/abs/2608.21223v1)|\n",
     "2608.21124": "|**2026-08-21**|**Neuromorphic Infrared Fibre-Optic Event-Based Sensing with Fast and Efficient Photonic-Electronic Spiking Neurons**|Dylan Black et al.|[2608.21124v1](http://arxiv.org/abs/2608.21124v1)|\n",
     "2606.20151": "|**2026-08-19**|**Hybrid ANN-SNN Pipeline with Local Plasticity**|Denis Larionov et al.|[2606.20151v2](http://arxiv.org/abs/2606.20151v2)|\n",
@@ -43,7 +46,6 @@
     "2607.19875": "|**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et al.|[2607.19875v1](http://arxiv.org/abs/2607.19875v1)|\n",
     "2607.20699": "|**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et al.|[2607.20699v1](http://arxiv.org/abs/2607.20699v1)|\n",
     "2607.19170": "|**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|\n",
-    "2607.19514": "|**2026-07-21**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v1](http://arxiv.org/abs/2607.19514v1)|\n",
     "2607.17456": "|**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|\n",
     "2607.18412": "|**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|\n",
     "2607.16834": "|**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|\n",
