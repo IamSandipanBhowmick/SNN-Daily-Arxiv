@@ -1,4 +1,4 @@
-## Updated on 2026.08.25
+## Updated on 2026.08.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-26**|**MeMark: Membrane-Space Watermarking for Spiking Neural Networks**|Roberto Riaño et al.|[2608.25738v1](http://arxiv.org/abs/2608.25738v1)|
+|**2026-08-25**|**Sensor Drift Compensation via Olfactory system and Reservoir Computing**|ZhengChen Dong et al.|[2608.24288v1](http://arxiv.org/abs/2608.24288v1)|
+|**2026-08-25**|**ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal**|Bohan Zhang et al.|[2608.24073v1](http://arxiv.org/abs/2608.24073v1)|
+|**2026-08-25**|**Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing**|William Howes et al.|[2608.23987v1](http://arxiv.org/abs/2608.23987v1)|
 |**2026-08-24**|**Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing**|Jessica Hunter et al.|[2608.22729v1](http://arxiv.org/abs/2608.22729v1)|
 |**2026-08-22**|**Do Sheaf Neural Networks Use Holonomy? A Measure--Intervene--Control Study**|Ankit Grover et al.|[2607.19514v2](http://arxiv.org/abs/2607.19514v2)|
 |**2026-08-22**|**Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery**|Gwenevere Frank et al.|[2608.22072v1](http://arxiv.org/abs/2608.22072v1)|
@@ -3447,5 +3451,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
