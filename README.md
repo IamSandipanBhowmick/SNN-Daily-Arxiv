@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,11 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-27**|**ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification**|M. Middleton et al.|[2608.27150v1](http://arxiv.org/abs/2608.27150v1)|
+|**2026-08-27**|**Hysteresis and multistability in network spreading with neuronal activity feedback**|Christoffer G. Alexandersen et al.|[2608.26528v1](http://arxiv.org/abs/2608.26528v1)|
+|**2026-08-27**|**Probing hot QCD medium with heavy quarkonium in small and large collision systems**|Jiamin Liu et al.|[2607.02042v2](http://arxiv.org/abs/2607.02042v2)|
 |**2026-08-26**|**MeMark: Membrane-Space Watermarking for Spiking Neural Networks**|Roberto Riaño et al.|[2608.25738v1](http://arxiv.org/abs/2608.25738v1)|
+|**2026-08-26**|**Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs**|Amirreza Khorasanian et al.|[2608.26223v1](http://arxiv.org/abs/2608.26223v1)|
 |**2026-08-25**|**Sensor Drift Compensation via Olfactory system and Reservoir Computing**|ZhengChen Dong et al.|[2608.24288v1](http://arxiv.org/abs/2608.24288v1)|
 |**2026-08-25**|**ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal**|Bohan Zhang et al.|[2608.24073v1](http://arxiv.org/abs/2608.24073v1)|
 |**2026-08-25**|**Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing**|William Howes et al.|[2608.23987v1](http://arxiv.org/abs/2608.23987v1)|
@@ -3451,5 +3455,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260828>back to top</a>)</p>
 
