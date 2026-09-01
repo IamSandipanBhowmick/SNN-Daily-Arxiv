@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-08-31**|**ITP-STDP: A Hardware-Efficient Intrinsic-Timing Power-of-Two Synaptic Learning Engine for On-Chip SNNs**|Haihang Xia et al.|[2606.06159v2](http://arxiv.org/abs/2606.06159v2)|
+|**2026-08-31**|**The Value of Spike Timing: A Leakage-Resistant Benchmark of SNN Design Choices for Network Intrusion Detection**|Raj Patel et al.|[2606.01442v2](http://arxiv.org/abs/2606.01442v2)|
+|**2026-08-31**|**Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition**|Valentin M. Meunier et al.|[2608.30792v1](http://arxiv.org/abs/2608.30792v1)|
+|**2026-08-31**|**Non-uniform Memory Partitioning For Low-Power Spiking Neural Networks**|Simon Richter et al.|[2608.30444v1](http://arxiv.org/abs/2608.30444v1)|
+|**2026-08-30**|**Towards an Expressivity-Normalized Energy-Demand Comparison of ANNs and SNNs**|Miriam Kranzlmüller et al.|[2608.29869v1](http://arxiv.org/abs/2608.29869v1)|
 |**2026-08-28**|**Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Networks**|Ludovic Boulanger et al.|[2608.28493v1](http://arxiv.org/abs/2608.28493v1)|
 |**2026-08-28**|**Neuromorphic architectures as numerical solvers for computational neuroscience**|Jakob Jordan et al.|[2608.28387v1](http://arxiv.org/abs/2608.28387v1)|
 |**2026-08-28**|**SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Models**|Enqiao Lu et al.|[2608.27857v1](http://arxiv.org/abs/2608.27857v1)|
@@ -146,7 +151,6 @@
 |**2026-06-07**|**This is how the Neocortex Learns**|Randall C. O'Reilly et al.|[2606.08720v1](http://arxiv.org/abs/2606.08720v1)|
 |**2026-06-07**|**Unifying von-Neumann HPC and Neuromorphic Acceleration via the EBRAINS Research Infrastructure: A Framework for High-Performance Workflows**|Krishna Kant Singh et al.|[2606.08515v1](http://arxiv.org/abs/2606.08515v1)|
 |**2026-06-06**|**Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**|Pengzhi Zhong et al.|[2603.27493v2](http://arxiv.org/abs/2603.27493v2)|
-|**2026-06-04**|**ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training**|Haihang Xia et al.|[2606.06159v1](http://arxiv.org/abs/2606.06159v1)|
 |**2026-06-04**|**DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement**|Cunhang Fan et al.|[2606.05911v1](http://arxiv.org/abs/2606.05911v1)|
 |**2026-06-03**|**Binary Spiking Neural Networks as Causal Models**|Aditya Kar et al.|[2604.27007v2](http://arxiv.org/abs/2604.27007v2)|
 |**2026-06-03**|**QDS-SNN: Energy-efficient Quantum Deeply-Supervised Spiking Neural Network Algorithm for Traffic Sign Recognition**|Zhiguo Qu et al.|[2606.07657v1](http://arxiv.org/abs/2606.07657v1)|
@@ -156,7 +160,6 @@
 |**2026-06-02**|**Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs**|Ting Liu et al.|[2606.03026v1](http://arxiv.org/abs/2606.03026v1)|
 |**2026-06-01**|**Beyond Low-Rank: Low-Rank Sparse Prompting via Spiking Neural Network and Prompt Factorization**|Yumiao Zhao et al.|[2606.01945v1](http://arxiv.org/abs/2606.01945v1)|
 |**2026-06-01**|**A 32-Channel 3.53-μW Per Channel Brain-Machine Interface SoC Featuring Dual-Threshold Delta-modulation, In-Memory Spike Detection and Bi-SNN Based Motor Decoding**|Ye Ke et al.|[2606.01776v1](http://arxiv.org/abs/2606.01776v1)|
-|**2026-05-31**|**On the Evaluation of Spiking Neural Network Configurations for Network Intrusion Detection**|Raj Patel et al.|[2606.01442v1](http://arxiv.org/abs/2606.01442v1)|
 |**2026-05-31**|**IO Pad Integrity in Energy-Efficient Neuromorphic Chips**|Arfan Ghani et al.|[2606.01181v1](http://arxiv.org/abs/2606.01181v1)|
 |**2026-05-31**|**Spiking and Event-driven Neuromorphic Mamba Models for Efficient Speech Recognition**|Tauseef Ahmed et al.|[2606.01135v1](http://arxiv.org/abs/2606.01135v1)|
 |**2026-05-30**|**A Retinomorphic Optical Spiking Neuron for Camouflaged Object Detection**|Srilagna Sahoo et al.|[2606.00818v1](http://arxiv.org/abs/2606.00818v1)|
