@@ -1,4 +1,4 @@
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et al.|[2609.01330v1](http://arxiv.org/abs/2609.01330v1)|
+|**2026-09-01**|**Real-Time Neuromorphic Spectrum Intelligence Simulator**|Navaneetha Krishnan Kamalakannan et al.|[2609.00585v1](http://arxiv.org/abs/2609.00585v1)|
 |**2026-08-31**|**ITP-STDP: A Hardware-Efficient Intrinsic-Timing Power-of-Two Synaptic Learning Engine for On-Chip SNNs**|Haihang Xia et al.|[2606.06159v2](http://arxiv.org/abs/2606.06159v2)|
 |**2026-08-31**|**The Value of Spike Timing: A Leakage-Resistant Benchmark of SNN Design Choices for Network Intrusion Detection**|Raj Patel et al.|[2606.01442v2](http://arxiv.org/abs/2606.01442v2)|
 |**2026-08-31**|**Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition**|Valentin M. Meunier et al.|[2608.30792v1](http://arxiv.org/abs/2608.30792v1)|
@@ -22,6 +24,7 @@
 |**2026-08-27**|**ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification**|M. Middleton et al.|[2608.27150v1](http://arxiv.org/abs/2608.27150v1)|
 |**2026-08-27**|**Hysteresis and multistability in network spreading with neuronal activity feedback**|Christoffer G. Alexandersen et al.|[2608.26528v1](http://arxiv.org/abs/2608.26528v1)|
 |**2026-08-27**|**Probing hot QCD medium with heavy quarkonium in small and large collision systems**|Jiamin Liu et al.|[2607.02042v2](http://arxiv.org/abs/2607.02042v2)|
+|**2026-08-27**|**Benchmarking spiking neural networks across sensing modalities on edge devices**|Xin Du et al.|[2609.00026v1](http://arxiv.org/abs/2609.00026v1)|
 |**2026-08-26**|**MeMark: Membrane-Space Watermarking for Spiking Neural Networks**|Roberto Riaño et al.|[2608.25738v1](http://arxiv.org/abs/2608.25738v1)|
 |**2026-08-26**|**Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs**|Amirreza Khorasanian et al.|[2608.26223v1](http://arxiv.org/abs/2608.26223v1)|
 |**2026-08-25**|**Sensor Drift Compensation via Olfactory system and Reservoir Computing**|ZhengChen Dong et al.|[2608.24288v1](http://arxiv.org/abs/2608.24288v1)|
@@ -3461,5 +3464,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 
