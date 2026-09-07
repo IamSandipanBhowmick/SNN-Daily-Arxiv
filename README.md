@@ -1,4 +1,4 @@
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-04**|**Large Language Models with At Most One Spike per Neuron**|Zhuoya Zhao et al.|[2609.05151v1](http://arxiv.org/abs/2609.05151v1)|
+|**2026-09-04**|**Robust stabilization with spiking neuronal communication**|Elena Petri et al.|[2609.05054v1](http://arxiv.org/abs/2609.05054v1)|
 |**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et al.|[2609.01330v1](http://arxiv.org/abs/2609.01330v1)|
 |**2026-09-01**|**Real-Time Neuromorphic Spectrum Intelligence Simulator**|Navaneetha Krishnan Kamalakannan et al.|[2609.00585v1](http://arxiv.org/abs/2609.00585v1)|
 |**2026-08-31**|**ITP-STDP: A Hardware-Efficient Intrinsic-Timing Power-of-Two Synaptic Learning Engine for On-Chip SNNs**|Haihang Xia et al.|[2606.06159v2](http://arxiv.org/abs/2606.06159v2)|
@@ -3464,5 +3466,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260907>back to top</a>)</p>
 
