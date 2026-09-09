@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|
+|**2026-09-08**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v1](http://arxiv.org/abs/2609.08070v1)|
+|**2026-09-07**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v2](http://arxiv.org/abs/2605.30361v2)|
+|**2026-09-07**|**GPU-Accelerated Hypergraph Partitioning and Placement to Map SNNs on Neuromorphic Hardware**|Marco Ronzani et al.|[2609.07577v1](http://arxiv.org/abs/2609.07577v1)|
+|**2026-09-05**|**Brain-Inspired User Positioning for mmWave Beam Management**|Aris Karampelas Timotijevic et al.|[2609.06252v1](http://arxiv.org/abs/2609.06252v1)|
 |**2026-09-04**|**Large Language Models with At Most One Spike per Neuron**|Zhuoya Zhao et al.|[2609.05151v1](http://arxiv.org/abs/2609.05151v1)|
 |**2026-09-04**|**Robust stabilization with spiking neuronal communication**|Elena Petri et al.|[2609.05054v1](http://arxiv.org/abs/2609.05054v1)|
 |**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et al.|[2609.01330v1](http://arxiv.org/abs/2609.01330v1)|
@@ -199,7 +204,6 @@
 |**2026-05-14**|**Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation**|Wilten Nicola et al.|[2605.14319v1](http://arxiv.org/abs/2605.14319v1)|
 |**2026-05-14**|**Federated Learning of Spiking Neural Networks under Heterogeneous Temporal Resolutions**|Sanja Karilanova et al.|[2605.15355v1](http://arxiv.org/abs/2605.15355v1)|
 |**2026-05-14**|**Advancing Direct Training for Spiking Neural Networks with Circulate-Firing Neurons and Learnable Gradients**|Feifan Zhou et al.|[2605.27412v1](http://arxiv.org/abs/2605.27412v1)|
-|**2026-05-14**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v1](http://arxiv.org/abs/2605.30361v1)|
 |**2026-05-13**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et al.|[2605.07653v2](http://arxiv.org/abs/2605.07653v2)|
 |**2026-05-13**|**FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping**|Jongmin Choi et al.|[2605.13071v1](http://arxiv.org/abs/2605.13071v1)|
 |**2026-05-13**|**Dual-axis attribution of zebrafish tectal microcircuits for energy-efficient and robust neurocomputing**|Ningping Li et al.|[2605.13924v1](http://arxiv.org/abs/2605.13924v1)|
@@ -3466,5 +3470,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
