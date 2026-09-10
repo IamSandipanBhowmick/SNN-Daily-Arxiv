@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-09**|**Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks**|Ammar Kamoona et al.|[2609.09564v1](http://arxiv.org/abs/2609.09564v1)|
 |**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|
 |**2026-09-08**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v1](http://arxiv.org/abs/2609.08070v1)|
 |**2026-09-07**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v2](http://arxiv.org/abs/2605.30361v2)|
@@ -3470,5 +3471,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260910>back to top</a>)</p>
 

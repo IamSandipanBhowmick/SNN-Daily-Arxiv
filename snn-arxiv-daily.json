@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2609.09564": "|**2026-09-09**|**Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks**|Ammar Kamoona et al.|[2609.09564v1](http://arxiv.org/abs/2609.09564v1)|\n",
     "2609.08446": "|**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|\n",
     "2609.08070": "|**2026-09-08**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v1](http://arxiv.org/abs/2609.08070v1)|\n",
     "2605.30361": "|**2026-09-07**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v2](http://arxiv.org/abs/2605.30361v2)|\n",
