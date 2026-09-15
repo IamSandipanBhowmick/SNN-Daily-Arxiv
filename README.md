@@ -11,9 +11,20 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-14**|**Event-Native Symbolic-Temporal Spike Encoding Framework for Heterogeneous Cyber Streams**|Dalton Diez et al.|[2609.15772v1](http://arxiv.org/abs/2609.15772v1)|
+|**2026-09-14**|**A Memristive Synapse for Online STDP Learning and Inference in SNNs**|Elia Mateu-Barriendos et al.|[2609.15339v1](http://arxiv.org/abs/2609.15339v1)|
+|**2026-09-12**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v1](http://arxiv.org/abs/2609.14092v1)|
+|**2026-09-12**|**Exploring napping paradigm for Recurrent Spiking Neural Networks**|Andreas Massey et al.|[2609.13927v1](http://arxiv.org/abs/2609.13927v1)|
+|**2026-09-12**|**URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining**|Po-Han Chiang et al.|[2609.13899v1](http://arxiv.org/abs/2609.13899v1)|
+|**2026-09-11**|**Synthetic Nearest Neighbors: Extending Synthetic Controls for Matrix Completion with Missing Not at Random Data**|Anish Agarwal et al.|[2609.13586v1](http://arxiv.org/abs/2609.13586v1)|
+|**2026-09-11**|**A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS Neuromorphic System**|Robin Heinemann et al.|[2609.13563v1](http://arxiv.org/abs/2609.13563v1)|
+|**2026-09-11**|**Pedestrian Crossing Intent Classification From Event-Based Vision Using Convolutional Spiking Neural Networks With Temporal Augmentation**|Henok Teklu et al.|[2609.13328v1](http://arxiv.org/abs/2609.13328v1)|
+|**2026-09-10**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v2](http://arxiv.org/abs/2609.08070v2)|
+|**2026-09-10**|**A Time-Based Readout for Vector-Matrix Multiplication in Fully Analog Memristive SNNs**|Elia Mateu-Barriendos et al.|[2609.11713v1](http://arxiv.org/abs/2609.11713v1)|
+|**2026-09-10**|**SCINTILLA-SNN: A Spiking Multi-Scale Selective Aggregation Network for Perineural Invasion Prediction**|Youngung Han et al.|[2609.11237v1](http://arxiv.org/abs/2609.11237v1)|
+|**2026-09-10**|**Polyhedral Geometry of Time-to-First-Spike Neural Networks**|Manjot Singh et al.|[2609.11227v1](http://arxiv.org/abs/2609.11227v1)|
 |**2026-09-09**|**Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks**|Ammar Kamoona et al.|[2609.09564v1](http://arxiv.org/abs/2609.09564v1)|
 |**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|
-|**2026-09-08**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v1](http://arxiv.org/abs/2609.08070v1)|
 |**2026-09-07**|**Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies**|Dhruv Patankar et al.|[2605.30361v2](http://arxiv.org/abs/2605.30361v2)|
 |**2026-09-07**|**GPU-Accelerated Hypergraph Partitioning and Placement to Map SNNs on Neuromorphic Hardware**|Marco Ronzani et al.|[2609.07577v1](http://arxiv.org/abs/2609.07577v1)|
 |**2026-09-05**|**Brain-Inspired User Positioning for mmWave Beam Management**|Aris Karampelas Timotijevic et al.|[2609.06252v1](http://arxiv.org/abs/2609.06252v1)|
