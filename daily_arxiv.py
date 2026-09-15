@@ -1,7 +1,10 @@
 import datetime
 import json
-import arxiv
+import random
+import time
 from pathlib import Path
+
+import arxiv
 
 
 def get_authors(authors, first_author=False):
@@ -20,18 +23,47 @@ def get_paper_key(paper_id):
     2108.09112v1 -> 2108.09112
     """
     ver_pos = paper_id.find("v")
+
     if ver_pos == -1:
         return paper_id
+
     return paper_id[:ver_pos]
 
 
-def get_daily_papers(topic, query="SNN", max_results=2):
+def arxiv_results_with_retry(search_engine, attempts=6):
     """
-    @param topic: str
-    @param query: str
-    @return data, data_web
+    Fetch arXiv results with exponential backoff for HTTP 429 errors.
     """
 
+    for attempt in range(attempts):
+        client = arxiv.Client(
+            page_size=100,
+            delay_seconds=10,
+            num_retries=0,
+        )
+
+        try:
+            yield from client.results(search_engine)
+            return
+
+        except arxiv.HTTPError as exc:
+            error_message = str(exc)
+
+            if "429" not in error_message or attempt == attempts - 1:
+                raise
+
+            wait_time = min(300, 30 * (2 ** attempt))
+            wait_time += random.uniform(0, 10)
+
+            print(
+                f"arXiv rate limit detected. "
+                f"Retrying in {wait_time:.0f} seconds..."
+            )
+
+            time.sleep(wait_time)
+
+
+def get_daily_papers(topic, query="SNN", max_results=100):
     content = {}
     content_to_web = {}
 
@@ -42,59 +74,62 @@ def get_daily_papers(topic, query="SNN", max_results=2):
         sort_order=arxiv.SortOrder.Descending,
     )
 
-    # New arxiv API fix
-    client = arxiv.Client(
-        page_size=100,
-        delay_seconds=3,
-        num_retries=3,
-    )
+    try:
+        for result in arxiv_results_with_retry(search_engine):
 
-    for result in client.results(search_engine):
+            paper_id = result.get_short_id()
+            paper_key = get_paper_key(paper_id)
 
-        paper_id = result.get_short_id()
-        paper_key = get_paper_key(paper_id)
-
-        paper_title = result.title.replace("\n", " ")
-        paper_url = result.entry_id
-        paper_authors = get_authors(result.authors)
-        paper_first_author = get_authors(result.authors, first_author=True)
-
-        primary_category = result.primary_category
-        publish_time = result.published.date()
-        update_time = result.updated.date()
-
-        print(
-            "Time = ",
-            update_time,
-            " title = ",
-            paper_title,
-            " author = ",
-            paper_first_author,
-            " category = ",
-            primary_category,
-        )
-
-        try:
-            content[paper_key] = (
-                f"|**{update_time}**|"
-                f"**{paper_title}**|"
-                f"{paper_first_author} et al.|"
-                f"[{paper_id}]({paper_url})|\n"
+            paper_title = result.title.replace("\n", " ")
+            paper_url = result.entry_id
+            paper_first_author = get_authors(
+                result.authors,
+                first_author=True,
             )
 
-            content_to_web[paper_key] = (
-                f"- {update_time}, **{paper_title}**, "
-                f"{paper_first_author} et al., "
-                f"Paper: [{paper_url}]({paper_url})\n"
+            primary_category = result.primary_category
+            update_time = result.updated.date()
+
+            print(
+                "Time = ",
+                update_time,
+                " title = ",
+                paper_title,
+                " author = ",
+                paper_first_author,
+                " category = ",
+                primary_category,
             )
 
-        except Exception as e:
-            print(f"exception: {e} with id: {paper_key}")
+            try:
+                content[paper_key] = (
+                    f"|**{update_time}**|"
+                    f"**{paper_title}**|"
+                    f"{paper_first_author} et al.|"
+                    f"[{paper_id}]({paper_url})|\n"
+                )
+
+                content_to_web[paper_key] = (
+                    f"- {update_time}, **{paper_title}**, "
+                    f"{paper_first_author} et al., "
+                    f"Paper: [{paper_url}]({paper_url})\n"
+                )
+
+            except Exception as exc:
+                print(
+                    f"Exception: {exc} "
+                    f"with id: {paper_key}"
+                )
+
+    except arxiv.HTTPError as exc:
+        print(f"::warning::Unable to access arXiv API: {exc}")
+        print("Keeping the existing paper database unchanged.")
+        return {topic: {}}, {topic: {}}
 
     sorted_content = dict(
         sorted(
             content.items(),
-            key=lambda x: x[1].split("|")[1],
+            key=lambda item: item[1].split("|")[1],
             reverse=True,
         )
     )
@@ -102,7 +137,7 @@ def get_daily_papers(topic, query="SNN", max_results=2):
     sorted_content_to_web = dict(
         sorted(
             content_to_web.items(),
-            key=lambda x: x[1].split(",")[0],
+            key=lambda item: item[1].split(",")[0],
             reverse=True,
         )
     )
@@ -119,8 +154,9 @@ def update_json_file(filename, data_all):
     if not file_path.exists():
         file_path.write_text("{}", encoding="utf-8")
 
-    with open(filename, "r", encoding="utf-8") as f:
-        content = f.read().strip()
+    with open(filename, "r", encoding="utf-8") as file:
+        content = file.read().strip()
+
         if not content:
             json_data = {}
         else:
@@ -130,24 +166,31 @@ def update_json_file(filename, data_all):
         for keyword in data.keys():
             papers = data[keyword]
 
-            if keyword in json_data.keys():
+            if keyword in json_data:
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
 
     for keyword in json_data.keys():
         papers = json_data[keyword]
+
         sorted_papers = dict(
             sorted(
                 papers.items(),
-                key=lambda x: x[1].split("|")[1],
+                key=lambda item: item[1].split("|")[1],
                 reverse=True,
             )
         )
+
         json_data[keyword] = sorted_papers
 
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(json_data, f, indent=2, ensure_ascii=False)
+    with open(filename, "w", encoding="utf-8") as file:
+        json.dump(
+            json_data,
+            file,
+            indent=2,
+            ensure_ascii=False,
+        )
 
 
 def json_to_md(
@@ -158,49 +201,66 @@ def json_to_md(
     use_tc=True,
     show_badge=False,
 ):
-    DateNow = datetime.date.today()
-    DateNow = str(DateNow).replace("-", ".")
+    date_now = str(datetime.date.today()).replace("-", ".")
 
-    with open(filename, "r", encoding="utf-8") as f:
-        content = f.read().strip()
+    with open(filename, "r", encoding="utf-8") as file:
+        content = file.read().strip()
+
         if not content:
             data = {}
         else:
             data = json.loads(content)
 
-    with open(md_filename, "w", encoding="utf-8") as f:
+    with open(md_filename, "w", encoding="utf-8") as file:
 
         if use_title and to_web:
-            f.write("---\n")
-            f.write("layout: default\n")
-            f.write("---\n\n")
+            file.write("---\n")
+            file.write("layout: default\n")
+            file.write("---\n\n")
 
         if show_badge:
-            f.write("[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write("[![Forks][forks-shield]][forks-url]\n")
-            f.write("[![Stargazers][stars-shield]][stars-url]\n")
-            f.write("[![Issues][issues-shield]][issues-url]\n\n")
+            file.write(
+                "[![Contributors][contributors-shield]]"
+                "([contributors-url])\n"
+            )
+            file.write(
+                "[![Forks][forks-shield]]"
+                "([forks-url])\n"
+            )
+            file.write(
+                "[![Stargazers][stars-shield]]"
+                "([stars-url])\n"
+            )
+            file.write(
+                "[![Issues][issues-shield]]"
+                "([issues-url])\n\n"
+            )
 
         if use_title:
-            f.write("## Updated on " + DateNow + "\n\n")
+            file.write(f"## Updated on {date_now}\n\n")
         else:
-            f.write("> Updated on " + DateNow + "\n\n")
+            file.write(f"> Updated on {date_now}\n\n")
 
         if use_tc:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
+            file.write("<details>\n")
+            file.write("  <summary>Table of Contents</summary>\n")
+            file.write("  <ol>\n")
 
             for keyword in data.keys():
                 day_content = data[keyword]
+
                 if not day_content:
                     continue
 
-                kw = keyword.replace(" ", "-")
-                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+                keyword_anchor = keyword.replace(" ", "-")
 
-            f.write("  </ol>\n")
-            f.write("</details>\n\n")
+                file.write(
+                    f"    <li><a href=#{keyword_anchor}>"
+                    f"{keyword}</a></li>\n"
+                )
+
+            file.write("  </ol>\n")
+            file.write("</details>\n\n")
 
         for keyword in data.keys():
             day_content = data[keyword]
@@ -208,60 +268,88 @@ def json_to_md(
             if not day_content:
                 continue
 
-            f.write(f"## {keyword}\n\n")
+            file.write(f"## {keyword}\n\n")
 
             if use_title:
                 if not to_web:
-                    f.write(
+                    file.write(
                         "|Publish Date|Title|Authors|Paper|\n"
                         "|---|---|---|---|\n"
                     )
                 else:
-                    f.write("| Publish Date | Title | Authors | Paper |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|\n")
+                    file.write(
+                        "| Publish Date | Title | Authors | Paper |\n"
+                    )
+                    file.write(
+                        "|:---------|:-----------------------|"
+                        ":---------|:------|\n"
+                    )
 
-            for _, v in day_content.items():
-                if v is not None:
-                    f.write(v)
+            for value in day_content.values():
+                if value is not None:
+                    file.write(value)
 
-            f.write("\n")
+            file.write("\n")
 
-            top_info = f"#Updated on {DateNow}"
+            top_info = f"#Updated on {date_now}"
             top_info = top_info.replace(" ", "-").replace(".", "")
-            f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+
+            file.write(
+                f"<p align=right>(<a href={top_info}>"
+                "back to top</a>)</p>\n\n"
+            )
 
         if show_badge:
-            f.write(
+            file.write(
                 "[contributors-shield]: "
-                "https://img.shields.io/github/contributors/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n"
+                "https://img.shields.io/github/contributors/"
+                "SpikingChen/snn-arxiv-daily.svg"
+                "?style=for-the-badge\n"
             )
-            f.write(
+
+            file.write(
                 "[contributors-url]: "
-                "https://github.com/SpikingChen/snn-arxiv-daily/graphs/contributors\n"
+                "https://github.com/SpikingChen/"
+                "snn-arxiv-daily/graphs/contributors\n"
             )
-            f.write(
+
+            file.write(
                 "[forks-shield]: "
-                "https://img.shields.io/github/forks/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n"
+                "https://img.shields.io/github/forks/"
+                "SpikingChen/snn-arxiv-daily.svg"
+                "?style=for-the-badge\n"
             )
-            f.write(
+
+            file.write(
                 "[forks-url]: "
-                "https://github.com/SpikingChen/snn-arxiv-daily/network/members\n"
+                "https://github.com/SpikingChen/"
+                "snn-arxiv-daily/network/members\n"
             )
-            f.write(
+
+            file.write(
                 "[stars-shield]: "
-                "https://img.shields.io/github/stars/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n"
+                "https://img.shields.io/github/stars/"
+                "SpikingChen/snn-arxiv-daily.svg"
+                "?style=for-the-badge\n"
             )
-            f.write(
+
+            file.write(
                 "[stars-url]: "
-                "https://github.com/SpikingChen/snn-arxiv-daily/stargazers\n"
+                "https://github.com/SpikingChen/"
+                "snn-arxiv-daily/stargazers\n"
             )
-            f.write(
+
+            file.write(
                 "[issues-shield]: "
-                "https://img.shields.io/github/issues/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n"
+                "https://img.shields.io/github/issues/"
+                "SpikingChen/snn-arxiv-daily.svg"
+                "?style=for-the-badge\n"
             )
-            f.write(
+
+            file.write(
                 "[issues-url]: "
-                "https://github.com/SpikingChen/snn-arxiv-daily/issues\n\n"
+                "https://github.com/SpikingChen/"
+                "snn-arxiv-daily/issues\n\n"
             )
 
     print("finished")
@@ -289,7 +377,7 @@ if __name__ == "__main__":
         data, data_web = get_daily_papers(
             topic,
             query=keyword,
-            max_results=200,
+            max_results=100,
         )
 
         data_collector.append(data)
@@ -303,4 +391,3 @@ if __name__ == "__main__":
     update_json_file(json_file, data_collector)
 
     json_to_md(json_file, md_file)
-
