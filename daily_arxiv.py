@@ -1,6 +1,5 @@
 import datetime
 import json
-import random
 import time
 from pathlib import Path
 
@@ -22,6 +21,7 @@ def get_paper_key(paper_id):
     Example:
     2108.09112v1 -> 2108.09112
     """
+
     ver_pos = paper_id.find("v")
 
     if ver_pos == -1:
@@ -30,40 +30,73 @@ def get_paper_key(paper_id):
     return paper_id[:ver_pos]
 
 
-def arxiv_results_with_retry(search_engine, attempts=6):
+def fetch_arxiv_results(search_engine, attempts=3):
     """
-    Fetch arXiv results with exponential backoff for HTTP 429 errors.
+    Fetch arXiv results with bounded retries.
+
+    The function retries HTTP 429 errors three times,
+    waiting 10 seconds between attempts. If arXiv remains
+    unavailable, it returns an empty list.
     """
 
-    for attempt in range(attempts):
-        client = arxiv.Client(
-            page_size=100,
-            delay_seconds=10,
-            num_retries=0,
-        )
+    client = arxiv.Client(
+        page_size=100,
+        delay_seconds=5,
+        num_retries=0,
+    )
 
+    for attempt in range(1, attempts + 1):
         try:
-            yield from client.results(search_engine)
-            return
+            return list(client.results(search_engine))
 
         except arxiv.HTTPError as exc:
             error_message = str(exc)
 
-            if "429" not in error_message or attempt == attempts - 1:
-                raise
+            if "429" not in error_message:
+                print(f"::warning::arXiv API error: {exc}")
+                return []
 
-            wait_time = min(300, 30 * (2 ** attempt))
-            wait_time += random.uniform(0, 10)
+            if attempt == attempts:
+                print(
+                    "::warning::arXiv is still rate-limiting requests "
+                    "after three attempts. Skipping today's update."
+                )
+                return []
 
             print(
-                f"arXiv rate limit detected. "
-                f"Retrying in {wait_time:.0f} seconds..."
+                f"arXiv rate limit detected "
+                f"(attempt {attempt}/{attempts}). "
+                "Retrying in 10 seconds..."
             )
 
-            time.sleep(wait_time)
+            time.sleep(10)
+
+        except Exception as exc:
+            print(f"::warning::Unexpected arXiv error: {exc}")
+            return []
+
+    return []
 
 
 def get_daily_papers(topic, query="SNN", max_results=100):
+    """
+    Collect the newest papers returned by the arXiv API.
+
+    Parameters
+    ----------
+    topic : str
+        Display name of the paper category.
+    query : str
+        arXiv search query.
+    max_results : int
+        Maximum number of papers requested.
+
+    Returns
+    -------
+    data, data_web : tuple
+        Paper information for README and web output.
+    """
+
     content = {}
     content_to_web = {}
 
@@ -74,57 +107,59 @@ def get_daily_papers(topic, query="SNN", max_results=100):
         sort_order=arxiv.SortOrder.Descending,
     )
 
-    try:
-        for result in arxiv_results_with_retry(search_engine):
+    results = fetch_arxiv_results(search_engine)
 
-            paper_id = result.get_short_id()
-            paper_key = get_paper_key(paper_id)
-
-            paper_title = result.title.replace("\n", " ")
-            paper_url = result.entry_id
-            paper_first_author = get_authors(
-                result.authors,
-                first_author=True,
-            )
-
-            primary_category = result.primary_category
-            update_time = result.updated.date()
-
-            print(
-                "Time = ",
-                update_time,
-                " title = ",
-                paper_title,
-                " author = ",
-                paper_first_author,
-                " category = ",
-                primary_category,
-            )
-
-            try:
-                content[paper_key] = (
-                    f"|**{update_time}**|"
-                    f"**{paper_title}**|"
-                    f"{paper_first_author} et al.|"
-                    f"[{paper_id}]({paper_url})|\n"
-                )
-
-                content_to_web[paper_key] = (
-                    f"- {update_time}, **{paper_title}**, "
-                    f"{paper_first_author} et al., "
-                    f"Paper: [{paper_url}]({paper_url})\n"
-                )
-
-            except Exception as exc:
-                print(
-                    f"Exception: {exc} "
-                    f"with id: {paper_key}"
-                )
-
-    except arxiv.HTTPError as exc:
-        print(f"::warning::Unable to access arXiv API: {exc}")
-        print("Keeping the existing paper database unchanged.")
+    if not results:
+        print(
+            f"No new data retrieved for '{topic}'. "
+            "Existing data will remain unchanged."
+        )
         return {topic: {}}, {topic: {}}
+
+    for result in results:
+        paper_id = result.get_short_id()
+        paper_key = get_paper_key(paper_id)
+
+        paper_title = result.title.replace("\n", " ").replace("|", "\\|")
+        paper_url = result.entry_id
+
+        paper_first_author = get_authors(
+            result.authors,
+            first_author=True,
+        )
+
+        primary_category = result.primary_category
+        update_time = result.updated.date()
+
+        print(
+            "Time =",
+            update_time,
+            "title =",
+            paper_title,
+            "author =",
+            paper_first_author,
+            "category =",
+            primary_category,
+        )
+
+        try:
+            content[paper_key] = (
+                f"|**{update_time}**|"
+                f"**{paper_title}**|"
+                f"{paper_first_author} et al.|"
+                f"[{paper_id}]({paper_url})|\n"
+            )
+
+            content_to_web[paper_key] = (
+                f"- {update_time}, **{paper_title}**, "
+                f"{paper_first_author} et al., "
+                f"Paper: [{paper_url}]({paper_url})\n"
+            )
+
+        except Exception as exc:
+            print(
+                f"Exception while processing paper {paper_key}: {exc}"
+            )
 
     sorted_content = dict(
         sorted(
@@ -163,15 +198,13 @@ def update_json_file(filename, data_all):
             json_data = json.loads(content)
 
     for data in data_all:
-        for keyword in data.keys():
-            papers = data[keyword]
-
+        for keyword, papers in data.items():
             if keyword in json_data:
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
 
-    for keyword in json_data.keys():
+    for keyword in json_data:
         papers = json_data[keyword]
 
         sorted_papers = dict(
@@ -212,7 +245,6 @@ def json_to_md(
             data = json.loads(content)
 
     with open(md_filename, "w", encoding="utf-8") as file:
-
         if use_title and to_web:
             file.write("---\n")
             file.write("layout: default\n")
@@ -221,19 +253,19 @@ def json_to_md(
         if show_badge:
             file.write(
                 "[![Contributors][contributors-shield]]"
-                "([contributors-url])\n"
+                "[contributors-url]\n"
             )
             file.write(
                 "[![Forks][forks-shield]]"
-                "([forks-url])\n"
+                "[forks-url]\n"
             )
             file.write(
                 "[![Stargazers][stars-shield]]"
-                "([stars-url])\n"
+                "[stars-url]\n"
             )
             file.write(
                 "[![Issues][issues-shield]]"
-                "([issues-url])\n\n"
+                "[issues-url]\n\n"
             )
 
         if use_title:
@@ -246,25 +278,21 @@ def json_to_md(
             file.write("  <summary>Table of Contents</summary>\n")
             file.write("  <ol>\n")
 
-            for keyword in data.keys():
-                day_content = data[keyword]
-
+            for keyword, day_content in data.items():
                 if not day_content:
                     continue
 
                 keyword_anchor = keyword.replace(" ", "-")
 
                 file.write(
-                    f"    <li><a href=#{keyword_anchor}>"
+                    f'    <li><a href="#{keyword_anchor}">'
                     f"{keyword}</a></li>\n"
                 )
 
             file.write("  </ol>\n")
             file.write("</details>\n\n")
 
-        for keyword in data.keys():
-            day_content = data[keyword]
-
+        for keyword, day_content in data.items():
             if not day_content:
                 continue
 
@@ -295,7 +323,7 @@ def json_to_md(
             top_info = top_info.replace(" ", "-").replace(".", "")
 
             file.write(
-                f"<p align=right>(<a href={top_info}>"
+                f'<p align="right">(<a href="{top_info}">'
                 "back to top</a>)</p>\n\n"
             )
 
@@ -352,30 +380,28 @@ def json_to_md(
                 "snn-arxiv-daily/issues\n\n"
             )
 
-    print("finished")
+    print("Finished generating README.md")
 
 
 if __name__ == "__main__":
-
     data_collector = []
     data_collector_web = []
 
-    keywords = {}
-
-    keywords["Spiking Neural Network"] = (
-        '"Spiking Neural Network" OR '
-        '"Spiking Neural Networks" OR '
-        '"Spiking Neuron" OR '
-        '"Spiking Neural Nets" OR '
-        '"SNN"'
-    )
+    keywords = {
+        "Spiking Neural Network": (
+            '"Spiking Neural Network" OR '
+            '"Spiking Neural Networks" OR '
+            '"Spiking Neuron" OR '
+            '"Spiking Neural Nets" OR '
+            '"SNN"'
+        )
+    }
 
     for topic, keyword in keywords.items():
-
-        print("Keyword: " + topic)
+        print(f"Keyword: {topic}")
 
         data, data_web = get_daily_papers(
-            topic,
+            topic=topic,
             query=keyword,
             max_results=100,
         )
@@ -383,11 +409,17 @@ if __name__ == "__main__":
         data_collector.append(data)
         data_collector_web.append(data_web)
 
-        print("\n")
+        print()
 
     json_file = "snn-arxiv-daily.json"
     md_file = "README.md"
 
-    update_json_file(json_file, data_collector)
+    update_json_file(
+        filename=json_file,
+        data_all=data_collector,
+    )
 
-    json_to_md(json_file, md_file)
+    json_to_md(
+        filename=json_file,
+        md_filename=md_file,
+    )
