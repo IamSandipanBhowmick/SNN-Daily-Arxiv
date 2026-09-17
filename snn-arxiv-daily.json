@@ -1,5 +1,6 @@
 {
   "Spiking Neural Network": {
+    "2609.18716": "|**2026-09-16**|**Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking**|Yimeng Shan et al.|[2609.18716v1](http://arxiv.org/abs/2609.18716v1)|\n",
     "2609.15772": "|**2026-09-14**|**Event-Native Symbolic-Temporal Spike Encoding Framework for Heterogeneous Cyber Streams**|Dalton Diez et al.|[2609.15772v1](http://arxiv.org/abs/2609.15772v1)|\n",
     "2609.15339": "|**2026-09-14**|**A Memristive Synapse for Online STDP Learning and Inference in SNNs**|Elia Mateu-Barriendos et al.|[2609.15339v1](http://arxiv.org/abs/2609.15339v1)|\n",
     "2609.16429": "|**2026-09-14**|**Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware**|Joseph A. Kilgore et al.|[2609.16429v1](http://arxiv.org/abs/2609.16429v1)|\n",
@@ -84,6 +85,7 @@
     "2607.19879": "|**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et al.|[2607.19879v1](http://arxiv.org/abs/2607.19879v1)|\n",
     "2607.19875": "|**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et al.|[2607.19875v1](http://arxiv.org/abs/2607.19875v1)|\n",
     "2607.20699": "|**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et al.|[2607.20699v1](http://arxiv.org/abs/2607.20699v1)|\n",
+    "2609.17562": "|**2026-07-22**|**BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection**|Mahdi Taheri et al.|[2609.17562v1](http://arxiv.org/abs/2609.17562v1)|\n",
     "2607.19170": "|**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et al.|[2607.19170v1](http://arxiv.org/abs/2607.19170v1)|\n",
     "2607.17456": "|**2026-07-20**|**Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction**|Tingyu Cheng et al.|[2607.17456v1](http://arxiv.org/abs/2607.17456v1)|\n",
     "2607.18412": "|**2026-07-20**|**Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs**|Huizhe Zhang et al.|[2607.18412v1](http://arxiv.org/abs/2607.18412v1)|\n",
