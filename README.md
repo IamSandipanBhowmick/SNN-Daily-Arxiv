@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,12 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-17**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v2](http://arxiv.org/abs/2609.14092v2)|
 |**2026-09-16**|**Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking**|Yimeng Shan et al.|[2609.18716v1](http://arxiv.org/abs/2609.18716v1)|
+|**2026-09-16**|**REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception**|Geoffroy Keime et al.|[2609.19204v1](http://arxiv.org/abs/2609.19204v1)|
 |**2026-09-14**|**Event-Native Symbolic-Temporal Spike Encoding Framework for Heterogeneous Cyber Streams**|Dalton Diez et al.|[2609.15772v1](http://arxiv.org/abs/2609.15772v1)|
 |**2026-09-14**|**A Memristive Synapse for Online STDP Learning and Inference in SNNs**|Elia Mateu-Barriendos et al.|[2609.15339v1](http://arxiv.org/abs/2609.15339v1)|
 |**2026-09-14**|**Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware**|Joseph A. Kilgore et al.|[2609.16429v1](http://arxiv.org/abs/2609.16429v1)|
-|**2026-09-12**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v1](http://arxiv.org/abs/2609.14092v1)|
 |**2026-09-12**|**Exploring napping paradigm for Recurrent Spiking Neural Networks**|Andreas Massey et al.|[2609.13927v1](http://arxiv.org/abs/2609.13927v1)|
 |**2026-09-12**|**URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining**|Po-Han Chiang et al.|[2609.13899v1](http://arxiv.org/abs/2609.13899v1)|
 |**2026-09-11**|**Synthetic Nearest Neighbors: Extending Synthetic Controls for Matrix Completion with Missing Not at Random Data**|Anish Agarwal et al.|[2609.13586v1](http://arxiv.org/abs/2609.13586v1)|
@@ -3485,5 +3486,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20260917">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20260918">back to top</a>)</p>
 
