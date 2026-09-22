@@ -11,7 +11,11 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-21**|**Can Spiking Neural Networks play pinball? A neuromorphic motion detector for target tracking**|Mazdak Fatahi et al.|[2609.24403v1](http://arxiv.org/abs/2609.24403v1)|
+|**2026-09-20**|**Spiking Neural Network Actor-Critic Proximal Policy Optimization Control for Autonomous UAV Navigation Through Constrained Openings in Civil Infrastructure and Buildings**|Francis Noah Walugembe et al.|[2609.23643v1](http://arxiv.org/abs/2609.23643v1)|
+|**2026-09-19**|**DVA-Neurons: Design and Verification of Adaptive LIF Neurons: From Single-Neuron Dynamics to Multi-Neuron Spiking Networks**|Thanh Pham et al.|[2609.22775v1](http://arxiv.org/abs/2609.22775v1)|
 |**2026-09-18**|**Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks**|Aidin Attar et al.|[2609.21583v1](http://arxiv.org/abs/2609.21583v1)|
+|**2026-09-18**|**Event-Frame Fusion for Inter-Frame Segmentation via Event-Guided Motion**|Dalia Hareb et al.|[2609.22500v1](http://arxiv.org/abs/2609.22500v1)|
 |**2026-09-17**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v2](http://arxiv.org/abs/2609.14092v2)|
 |**2026-09-16**|**Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking**|Yimeng Shan et al.|[2609.18716v1](http://arxiv.org/abs/2609.18716v1)|
 |**2026-09-16**|**REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception**|Geoffroy Keime et al.|[2609.19204v1](http://arxiv.org/abs/2609.19204v1)|
