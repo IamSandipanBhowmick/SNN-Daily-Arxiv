@@ -1,4 +1,4 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-18**|**Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks**|Aidin Attar et al.|[2609.21583v1](http://arxiv.org/abs/2609.21583v1)|
 |**2026-09-17**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v2](http://arxiv.org/abs/2609.14092v2)|
 |**2026-09-16**|**Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking**|Yimeng Shan et al.|[2609.18716v1](http://arxiv.org/abs/2609.18716v1)|
 |**2026-09-16**|**REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception**|Geoffroy Keime et al.|[2609.19204v1](http://arxiv.org/abs/2609.19204v1)|
@@ -3486,5 +3487,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20260920">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20260922">back to top</a>)</p>
 
