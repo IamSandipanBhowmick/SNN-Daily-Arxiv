@@ -1,4 +1,4 @@
-## Updated on 2026.09.22
+## Updated on 2026.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-22**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v2](http://arxiv.org/abs/2608.07066v2)|
 |**2026-09-21**|**Can Spiking Neural Networks play pinball? A neuromorphic motion detector for target tracking**|Mazdak Fatahi et al.|[2609.24403v1](http://arxiv.org/abs/2609.24403v1)|
+|**2026-09-21**|**SBMVTrack: Spike-Budgeted Multi-View Learning for Energy-Efficient UAV Tracking**|Pengzhi Zhong et al.|[2609.25503v1](http://arxiv.org/abs/2609.25503v1)|
 |**2026-09-20**|**Spiking Neural Network Actor-Critic Proximal Policy Optimization Control for Autonomous UAV Navigation Through Constrained Openings in Civil Infrastructure and Buildings**|Francis Noah Walugembe et al.|[2609.23643v1](http://arxiv.org/abs/2609.23643v1)|
 |**2026-09-19**|**DVA-Neurons: Design and Verification of Adaptive LIF Neurons: From Single-Neuron Dynamics to Multi-Neuron Spiking Networks**|Thanh Pham et al.|[2609.22775v1](http://arxiv.org/abs/2609.22775v1)|
 |**2026-09-18**|**Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks**|Aidin Attar et al.|[2609.21583v1](http://arxiv.org/abs/2609.21583v1)|
@@ -76,9 +78,9 @@
 |**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et al.|[2608.12500v1](http://arxiv.org/abs/2608.12500v1)|
 |**2026-08-12**|**BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural Networks**|Linliang Chen et al.|[2608.19239v1](http://arxiv.org/abs/2608.19239v1)|
 |**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et al.|[2608.10640v1](http://arxiv.org/abs/2608.10640v1)|
+|**2026-08-11**|**Activation-Energy Pruning for Spiking Neural Networks: Unsupervised Personalization via Spike-Count Saliency**|Joseph Bingham et al.|[2609.26167v1](http://arxiv.org/abs/2609.26167v1)|
 |**2026-08-09**|**SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks**|Prasanna Date et al.|[2608.08479v1](http://arxiv.org/abs/2608.08479v1)|
 |**2026-08-08**|**The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing**|Maksim Bazhenov et al.|[2608.08317v1](http://arxiv.org/abs/2608.08317v1)|
-|**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v1](http://arxiv.org/abs/2608.07066v1)|
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**|Jiahong Zhang et al.|[2608.05078v1](http://arxiv.org/abs/2608.05078v1)|
 |**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et al.|[2608.03324v1](http://arxiv.org/abs/2608.03324v1)|
 |**2026-08-03**|**Benchmarking Sheaf Neural Networks for Inductive Tasks**|Stefano Fiorini et al.|[2608.02558v1](http://arxiv.org/abs/2608.02558v1)|
@@ -3491,5 +3493,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20260922">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20260924">back to top</a>)</p>
 
