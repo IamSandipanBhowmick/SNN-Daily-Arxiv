@@ -1,4 +1,4 @@
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-24**|**T-Backdoor: Exploiting Temporal Redundancy in Neuromorphic Data for Spike-preserving Backdoor Attacks on SNNs**|Abdullah Arafat Miah et al.|[2609.30119v1](http://arxiv.org/abs/2609.30119v1)|
+|**2026-09-24**|**Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons**|Ruiyu Jia et al.|[2609.30102v1](http://arxiv.org/abs/2609.30102v1)|
+|**2026-09-24**|**A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics**|R. Lahoz-Beltra et al.|[2609.29984v1](http://arxiv.org/abs/2609.29984v1)|
+|**2026-09-24**|**On the second-order optimization for spiking neural networks**|Ngoc Phu Doan et al.|[2609.29379v1](http://arxiv.org/abs/2609.29379v1)|
 |**2026-09-23**|**Event-driven signal reconstruction through neuromorphic compressive sensing**|Zeru Fang et al.|[2609.28063v1](http://arxiv.org/abs/2609.28063v1)|
 |**2026-09-23**|**Spiking Neural Network Predicting Sequence of the External Worlds States in Model-Based Reinforcement Learning**|Mikhail Kiselev et al.|[2609.27459v1](http://arxiv.org/abs/2609.27459v1)|
 |**2026-09-22**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v2](http://arxiv.org/abs/2608.07066v2)|
@@ -3496,5 +3500,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20260925">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20260926">back to top</a>)</p>
 

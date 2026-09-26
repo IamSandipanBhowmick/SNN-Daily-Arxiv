@@ -1,5 +1,9 @@
 {
   "Spiking Neural Network": {
+    "2609.30119": "|**2026-09-24**|**T-Backdoor: Exploiting Temporal Redundancy in Neuromorphic Data for Spike-preserving Backdoor Attacks on SNNs**|Abdullah Arafat Miah et al.|[2609.30119v1](http://arxiv.org/abs/2609.30119v1)|\n",
+    "2609.30102": "|**2026-09-24**|**Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons**|Ruiyu Jia et al.|[2609.30102v1](http://arxiv.org/abs/2609.30102v1)|\n",
+    "2609.29984": "|**2026-09-24**|**A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics**|R. Lahoz-Beltra et al.|[2609.29984v1](http://arxiv.org/abs/2609.29984v1)|\n",
+    "2609.29379": "|**2026-09-24**|**On the second-order optimization for spiking neural networks**|Ngoc Phu Doan et al.|[2609.29379v1](http://arxiv.org/abs/2609.29379v1)|\n",
     "2609.28063": "|**2026-09-23**|**Event-driven signal reconstruction through neuromorphic compressive sensing**|Zeru Fang et al.|[2609.28063v1](http://arxiv.org/abs/2609.28063v1)|\n",
     "2609.27459": "|**2026-09-23**|**Spiking Neural Network Predicting Sequence of the External Worlds States in Model-Based Reinforcement Learning**|Mikhail Kiselev et al.|[2609.27459v1](http://arxiv.org/abs/2609.27459v1)|\n",
     "2608.07066": "|**2026-09-22**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et al.|[2608.07066v2](http://arxiv.org/abs/2608.07066v2)|\n",
