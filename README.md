@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-09-26**|**Extremely Fast and Compact Binary Graph Representations via Randomized Operator Sketching**|Srajan Agarwal et al.|[2609.32641v1](http://arxiv.org/abs/2609.32641v1)|
+|**2026-09-26**|**Toward On-Chip Training of Spiking Neural Networks for Dense Event-Based Vision**|Maxime Vaillant et al.|[2609.32405v1](http://arxiv.org/abs/2609.32405v1)|
 |**2026-09-24**|**T-Backdoor: Exploiting Temporal Redundancy in Neuromorphic Data for Spike-preserving Backdoor Attacks on SNNs**|Abdullah Arafat Miah et al.|[2609.30119v1](http://arxiv.org/abs/2609.30119v1)|
 |**2026-09-24**|**Activation-Flexible ANN-to-SNN Conversion with Finite-State Markov Neurons**|Ruiyu Jia et al.|[2609.30102v1](http://arxiv.org/abs/2609.30102v1)|
 |**2026-09-24**|**A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics**|R. Lahoz-Beltra et al.|[2609.29984v1](http://arxiv.org/abs/2609.29984v1)|
@@ -27,6 +29,7 @@
 |**2026-09-17**|**NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference**|Varun Manjunath et al.|[2609.14092v2](http://arxiv.org/abs/2609.14092v2)|
 |**2026-09-16**|**Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking**|Yimeng Shan et al.|[2609.18716v1](http://arxiv.org/abs/2609.18716v1)|
 |**2026-09-16**|**REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception**|Geoffroy Keime et al.|[2609.19204v1](http://arxiv.org/abs/2609.19204v1)|
+|**2026-09-15**|**Unsupervised spiking feature learning for event-based pedestrian crossing detection: approaching supervised accuracy without labelled training data**|Henok Teklu et al.|[2609.31671v1](http://arxiv.org/abs/2609.31671v1)|
 |**2026-09-14**|**Event-Native Symbolic-Temporal Spike Encoding Framework for Heterogeneous Cyber Streams**|Dalton Diez et al.|[2609.15772v1](http://arxiv.org/abs/2609.15772v1)|
 |**2026-09-14**|**A Memristive Synapse for Online STDP Learning and Inference in SNNs**|Elia Mateu-Barriendos et al.|[2609.15339v1](http://arxiv.org/abs/2609.15339v1)|
 |**2026-09-14**|**Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware**|Joseph A. Kilgore et al.|[2609.16429v1](http://arxiv.org/abs/2609.16429v1)|
@@ -3500,5 +3503,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20260928">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20260929">back to top</a>)</p>
 
