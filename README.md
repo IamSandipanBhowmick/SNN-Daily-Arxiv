@@ -1,4 +1,4 @@
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,19 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-10-01**|**Spiking neural networks for streaming qubit readout**|Barry M. Dillon et al.|[2610.02129v1](http://arxiv.org/abs/2610.02129v1)|
+|**2026-10-01**|**Controllable Stochastic Quantization Encoding for Adversarially Robust Spiking Neural Networks**|Yujia Liu et al.|[2610.01558v1](http://arxiv.org/abs/2610.01558v1)|
+|**2026-10-01**|**SpikeMoE: Brain-Inspired Competitive Routing for Flexible Spiking Mixture-of-Experts**|Xiaoli Liu et al.|[2610.01418v1](http://arxiv.org/abs/2610.01418v1)|
+|**2026-10-01**|**Contrastive Attention Mitigates Spectral Bias in Spiking Transformers**|Xiaoli Liu et al.|[2610.01403v1](http://arxiv.org/abs/2610.01403v1)|
+|**2026-09-30**|**Multi-Depth Temporal Fusion for Feedforward, Locally Trained Spiking Neural Networks**|Aidin Attar et al.|[2609.37047v2](http://arxiv.org/abs/2609.37047v2)|
+|**2026-09-30**|**Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation**|Jafar Shamsi et al.|[2610.00719v1](http://arxiv.org/abs/2610.00719v1)|
+|**2026-09-30**|**Stochastic Dynamics of Large-Scale Motif-Embedded Spiking Neuronal Networks**|Gurpreet Jagdev et al.|[2610.00616v1](http://arxiv.org/abs/2610.00616v1)|
+|**2026-09-30**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et al.|[2609.40258v1](http://arxiv.org/abs/2609.40258v1)|
+|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|
 |**2026-09-29**|**A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics**|R. Lahoz-Beltra et al.|[2609.29984v2](http://arxiv.org/abs/2609.29984v2)|
 |**2026-09-29**|**Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor**|Jackson Mowry et al.|[2609.38432v1](http://arxiv.org/abs/2609.38432v1)|
 |**2026-09-29**|**Zephyr: An Efficient Audio Denoising System Using Spiking Neural Networks Enabled With A Sparsity-Aware Flexible FPGA PE Array**|Cheng-En Chang et al.|[2609.37711v1](http://arxiv.org/abs/2609.37711v1)|
-|**2026-09-29**|**Multi-Depth Temporal Fusion for Feedforward, Locally Trained Spiking Neural Networks**|Aidin Attar et al.|[2609.37047v1](http://arxiv.org/abs/2609.37047v1)|
+|**2026-09-29**|**Vmem-$\varphi$: Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et al.|[2610.00350v1](http://arxiv.org/abs/2610.00350v1)|
 |**2026-09-28**|**SBMVTrack: Spike-Budgeted Multi-View Learning for Power-Efficient UAV Tracking**|Pengzhi Zhong et al.|[2609.25503v2](http://arxiv.org/abs/2609.25503v2)|
 |**2026-09-28**|**Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Neuromorphic Virtual Sensing**|William Howes et al.|[2608.23987v2](http://arxiv.org/abs/2608.23987v2)|
 |**2026-09-28**|**Spiking Neural Network-based Equalization and Demapping in IM/DD Systems: A Comparison**|Eike-Manuel Edelmann et al.|[2609.36103v1](http://arxiv.org/abs/2609.36103v1)|
@@ -3513,5 +3522,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261002">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261003">back to top</a>)</p>
 
