@@ -1,5 +1,7 @@
 {
   "Spiking Neural Network": {
+    "2610.11583": "|**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|\n",
+    "2610.11526": "|**2026-10-08**|**MSGAT: Multi-Head Spiking Graph Attention with Similarity-Space Fusion for Image-Text Retrieval**|Xintao Zong et al.|[2610.11526v1](http://arxiv.org/abs/2610.11526v1)|\n",
     "2610.09710": "|**2026-10-07**|**SpikingVLA: Asynchronous Spiking Vision-Language-Action Models**|Jingya Wang et al.|[2610.09710v1](http://arxiv.org/abs/2610.09710v1)|\n",
     "2610.09275": "|**2026-10-07**|**EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing**|Jie Shao et al.|[2610.09275v1](http://arxiv.org/abs/2610.09275v1)|\n",
     "2610.01418": "|**2026-10-06**|**SpikeMoE: Brain-Inspired Competitive Routing for Flexible Spiking Mixture-of-Experts**|Xiaoli Liu et al.|[2610.01418v2](http://arxiv.org/abs/2610.01418v2)|\n",
