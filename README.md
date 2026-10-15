@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,19 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-10-13**|**Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks**|Francesco Panetta et al.|[2610.17998v1](http://arxiv.org/abs/2610.17998v1)|
+|**2026-10-12**|**An FPGA-Based Spiking Neural Network for Spatiotemporal Pattern Learning and Classification**|Jingang Jin et al.|[2610.17463v1](http://arxiv.org/abs/2610.17463v1)|
+|**2026-10-12**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et al.|[2610.17154v1](http://arxiv.org/abs/2610.17154v1)|
+|**2026-10-12**|**FidLIF: Parallel Training of High-Fidelity Spiking Neurons with Exact BPTT**|Kaixiang He et al.|[2610.16924v1](http://arxiv.org/abs/2610.16924v1)|
+|**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et al.|[2610.16430v1](http://arxiv.org/abs/2610.16430v1)|
+|**2026-10-12**|**Removing the Compute Bottleneck for Event-based Visual Place Recognition with Spiking Neural Networks**|Somayeh Hussaini et al.|[2610.16022v1](http://arxiv.org/abs/2610.16022v1)|
+|**2026-10-11**|**SCINTILLA-SNN: A Spiking Multi-Scale Selective Aggregation Network for Perineural Invasion Prediction**|Youngung Han et al.|[2609.11237v2](http://arxiv.org/abs/2609.11237v2)|
+|**2026-10-11**|**SpikeOcc: Towards Resilient Multimodal 3D Occupancy Perception via Spiking Experts**|Yiding Sun et al.|[2610.15745v1](http://arxiv.org/abs/2610.15745v1)|
+|**2026-10-10**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et al.|[2609.40258v2](http://arxiv.org/abs/2609.40258v2)|
+|**2026-10-10**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et al.|[2610.15146v1](http://arxiv.org/abs/2610.15146v1)|
+|**2026-10-10**|**Computation of Attractor Lattices for a Class of Hybrid Systems**|William Kalies et al.|[2610.15123v1](http://arxiv.org/abs/2610.15123v1)|
+|**2026-10-10**|**Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification**|Christian Soize et al.|[2610.14844v1](http://arxiv.org/abs/2610.14844v1)|
+|**2026-10-10**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Li Jin et al.|[2610.14594v1](http://arxiv.org/abs/2610.14594v1)|
 |**2026-10-09**|**DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness**|Daniel Szelogowski et al.|[2610.13918v1](http://arxiv.org/abs/2610.13918v1)|
 |**2026-10-09**|**A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models**|Ivan Moloshnikov et al.|[2610.13663v1](http://arxiv.org/abs/2610.13663v1)|
 |**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|
@@ -30,7 +43,6 @@
 |**2026-09-30**|**Multi-Depth Temporal Fusion for Feedforward, Locally Trained Spiking Neural Networks**|Aidin Attar et al.|[2609.37047v2](http://arxiv.org/abs/2609.37047v2)|
 |**2026-09-30**|**Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation**|Jafar Shamsi et al.|[2610.00719v1](http://arxiv.org/abs/2610.00719v1)|
 |**2026-09-30**|**Stochastic Dynamics of Large-Scale Motif-Embedded Spiking Neuronal Networks**|Gurpreet Jagdev et al.|[2610.00616v1](http://arxiv.org/abs/2610.00616v1)|
-|**2026-09-30**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et al.|[2609.40258v1](http://arxiv.org/abs/2609.40258v1)|
 |**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|
 |**2026-09-29**|**A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics**|R. Lahoz-Beltra et al.|[2609.29984v2](http://arxiv.org/abs/2609.29984v2)|
 |**2026-09-29**|**Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor**|Jackson Mowry et al.|[2609.38432v1](http://arxiv.org/abs/2609.38432v1)|
@@ -72,7 +84,6 @@
 |**2026-09-11**|**Pedestrian Crossing Intent Classification From Event-Based Vision Using Convolutional Spiking Neural Networks With Temporal Augmentation**|Henok Teklu et al.|[2609.13328v1](http://arxiv.org/abs/2609.13328v1)|
 |**2026-09-10**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et al.|[2609.08070v2](http://arxiv.org/abs/2609.08070v2)|
 |**2026-09-10**|**A Time-Based Readout for Vector-Matrix Multiplication in Fully Analog Memristive SNNs**|Elia Mateu-Barriendos et al.|[2609.11713v1](http://arxiv.org/abs/2609.11713v1)|
-|**2026-09-10**|**SCINTILLA-SNN: A Spiking Multi-Scale Selective Aggregation Network for Perineural Invasion Prediction**|Youngung Han et al.|[2609.11237v1](http://arxiv.org/abs/2609.11237v1)|
 |**2026-09-10**|**Polyhedral Geometry of Time-to-First-Spike Neural Networks**|Manjot Singh et al.|[2609.11227v1](http://arxiv.org/abs/2609.11227v1)|
 |**2026-09-09**|**Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks**|Ammar Kamoona et al.|[2609.09564v1](http://arxiv.org/abs/2609.09564v1)|
 |**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|
@@ -3534,5 +3545,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261014">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261015">back to top</a>)</p>
 
