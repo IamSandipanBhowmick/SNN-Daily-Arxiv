@@ -1,9 +1,12 @@
 {
   "Spiking Neural Network": {
+    "2610.23068": "|**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et al.|[2610.23068v1](http://arxiv.org/abs/2610.23068v1)|\n",
+    "2610.23046": "|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et al.|[2610.23046v1](http://arxiv.org/abs/2610.23046v1)|\n",
     "2610.22083": "|**2026-10-15**|**Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks**|Sergio Davies et al.|[2610.22083v1](http://arxiv.org/abs/2610.22083v1)|\n",
     "2610.21978": "|**2026-10-15**|**Towards bio-inspired visual navigation: a neuromorphic navigation paradigm for MAVs**|Junjie Jiang et al.|[2610.21978v1](http://arxiv.org/abs/2610.21978v1)|\n",
     "2610.21748": "|**2026-10-15**|**The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks**|Ruichen Ma et al.|[2610.21748v1](http://arxiv.org/abs/2610.21748v1)|\n",
     "2610.21313": "|**2026-10-15**|**PSA: A Pruning-Friendly Sparse-Aware Accelerator for Efficient Sparse Convolution in SNNs**|Sanhe Fu et al.|[2610.21313v1](http://arxiv.org/abs/2610.21313v1)|\n",
+    "2610.22484": "|**2026-10-15**|**Upper bounds on the number of causal pieces in spiking neural networks**|Dominik Dold et al.|[2610.22484v1](http://arxiv.org/abs/2610.22484v1)|\n",
     "2610.20971": "|**2026-10-14**|**Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions**|Jan Pyrzowski et al.|[2610.20971v1](http://arxiv.org/abs/2610.20971v1)|\n",
     "2610.19973": "|**2026-10-14**|**STISA: A 0.16 GOPS/W/PE Single-Shot Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et al.|[2610.19973v1](http://arxiv.org/abs/2610.19973v1)|\n",
     "2610.19732": "|**2026-10-14**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et al.|[2610.19732v1](http://arxiv.org/abs/2610.19732v1)|\n",
