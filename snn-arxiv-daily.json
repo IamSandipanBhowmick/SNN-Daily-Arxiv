@@ -1,5 +1,8 @@
 {
   "Spiking Neural Network": {
+    "2610.26424": "|**2026-10-19**|**Online Preplay and Offline Replay Optimize Action Selection in a Closed-Loop Navigation Model**|Masud Ehsani et al.|[2610.26424v1](http://arxiv.org/abs/2610.26424v1)|\n",
+    "2610.24696": "|**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et al.|[2610.24696v1](http://arxiv.org/abs/2610.24696v1)|\n",
+    "2610.24677": "|**2026-10-17**|**SpikeDuet: CPU-Accelerator Co-Execution of Sparse SNNs on Commodity MCUs**|Muhammad Fahd Ibrahim Bhatti et al.|[2610.24677v1](http://arxiv.org/abs/2610.24677v1)|\n",
     "2610.23068": "|**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et al.|[2610.23068v1](http://arxiv.org/abs/2610.23068v1)|\n",
     "2610.23046": "|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et al.|[2610.23046v1](http://arxiv.org/abs/2610.23046v1)|\n",
     "2610.22083": "|**2026-10-15**|**Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks**|Sergio Davies et al.|[2610.22083v1](http://arxiv.org/abs/2610.22083v1)|\n",
@@ -12,6 +15,7 @@
     "2610.19732": "|**2026-10-14**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et al.|[2610.19732v1](http://arxiv.org/abs/2610.19732v1)|\n",
     "2610.19730": "|**2026-10-14**|**Design and Analysis of Temporal Representations in Neural Networks**|Alban Colas-Gattepaille et al.|[2610.19730v1](http://arxiv.org/abs/2610.19730v1)|\n",
     "2610.19392": "|**2026-10-14**|**Strange-quark-number-dependent response to partonic dynamics in baryon-rich Au+Au collisions**|Di Zhao et al.|[2610.19392v1](http://arxiv.org/abs/2610.19392v1)|\n",
+    "2610.23981": "|**2026-10-14**|**A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective**|Jing Yang et al.|[2610.23981v1](http://arxiv.org/abs/2610.23981v1)|\n",
     "2610.17998": "|**2026-10-13**|**Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks**|Francesco Panetta et al.|[2610.17998v1](http://arxiv.org/abs/2610.17998v1)|\n",
     "2610.17463": "|**2026-10-12**|**An FPGA-Based Spiking Neural Network for Spatiotemporal Pattern Learning and Classification**|Jingang Jin et al.|[2610.17463v1](http://arxiv.org/abs/2610.17463v1)|\n",
     "2610.17154": "|**2026-10-12**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et al.|[2610.17154v1](http://arxiv.org/abs/2610.17154v1)|\n",
