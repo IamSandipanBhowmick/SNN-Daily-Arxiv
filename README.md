@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-10-20**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et al.|[2610.15146v2](http://arxiv.org/abs/2610.15146v2)|
+|**2026-10-20**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Li Jin et al.|[2610.14594v2](http://arxiv.org/abs/2610.14594v2)|
+|**2026-10-20**|**Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks**|Erik Stolt et al.|[2610.28495v1](http://arxiv.org/abs/2610.28495v1)|
+|**2026-10-20**|**Robust Representation Learning for Spiking Neural Networks based on Conditional Information Bottleneck**|Yuli Zha et al.|[2610.28110v1](http://arxiv.org/abs/2610.28110v1)|
 |**2026-10-19**|**Online Preplay and Offline Replay Optimize Action Selection in a Closed-Loop Navigation Model**|Masud Ehsani et al.|[2610.26424v1](http://arxiv.org/abs/2610.26424v1)|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et al.|[2610.24696v1](http://arxiv.org/abs/2610.24696v1)|
 |**2026-10-17**|**SpikeDuet: CPU-Accelerator Co-Execution of Sparse SNNs on Commodity MCUs**|Muhammad Fahd Ibrahim Bhatti et al.|[2610.24677v1](http://arxiv.org/abs/2610.24677v1)|
@@ -36,10 +40,8 @@
 |**2026-10-11**|**SCINTILLA-SNN: A Spiking Multi-Scale Selective Aggregation Network for Perineural Invasion Prediction**|Youngung Han et al.|[2609.11237v2](http://arxiv.org/abs/2609.11237v2)|
 |**2026-10-11**|**SpikeOcc: Towards Resilient Multimodal 3D Occupancy Perception via Spiking Experts**|Yiding Sun et al.|[2610.15745v1](http://arxiv.org/abs/2610.15745v1)|
 |**2026-10-10**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et al.|[2609.40258v2](http://arxiv.org/abs/2609.40258v2)|
-|**2026-10-10**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et al.|[2610.15146v1](http://arxiv.org/abs/2610.15146v1)|
 |**2026-10-10**|**Computation of Attractor Lattices for a Class of Hybrid Systems**|William Kalies et al.|[2610.15123v1](http://arxiv.org/abs/2610.15123v1)|
 |**2026-10-10**|**Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification**|Christian Soize et al.|[2610.14844v1](http://arxiv.org/abs/2610.14844v1)|
-|**2026-10-10**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Li Jin et al.|[2610.14594v1](http://arxiv.org/abs/2610.14594v1)|
 |**2026-10-09**|**DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness**|Daniel Szelogowski et al.|[2610.13918v1](http://arxiv.org/abs/2610.13918v1)|
 |**2026-10-09**|**A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models**|Ivan Moloshnikov et al.|[2610.13663v1](http://arxiv.org/abs/2610.13663v1)|
 |**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|
@@ -3561,5 +3563,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261021">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261022">back to top</a>)</p>
 
