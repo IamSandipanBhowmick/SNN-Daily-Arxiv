@@ -1,4 +1,4 @@
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-10-26**|**Midrapidity dip and limiting fragmentation of charged hadrons from RHIC to LHC energies**| Neeraj et al.|[2610.35456v1](http://arxiv.org/abs/2610.35456v1)|
 |**2026-10-25**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et al.|[2610.33979v1](http://arxiv.org/abs/2610.33979v1)|
 |**2026-10-23**|**PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs**|Ning Liu et al.|[2610.32409v1](http://arxiv.org/abs/2610.32409v1)|
 |**2026-10-23**|**A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic**|Ali Mehrabi et al.|[2610.32052v1](http://arxiv.org/abs/2610.32052v1)|
@@ -3570,5 +3571,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261027">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261028">back to top</a>)</p>
 
