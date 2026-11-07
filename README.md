@@ -1,4 +1,4 @@
-## Updated on 2026.11.06
+## Updated on 2026.11.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,6 +21,7 @@
 |**2026-11-02**|**Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics**|Tuba Aksoy et al.|[2611.03841v1](http://arxiv.org/abs/2611.03841v1)|
 |**2026-11-01**|**SparseForge: Beyond Spike Sparsity toward Hardware-Exploitable Neuron Pruning for Efficient SNN Acceleration**|Kainan Wang et al.|[2611.01611v1](http://arxiv.org/abs/2611.01611v1)|
 |**2026-11-01**|**HyVox: Rethinking Low-Power Voice Intelligence towards Neuromorphic-von Neumann Edge Computing**|Snehasis Addy et al.|[2611.03735v1](http://arxiv.org/abs/2611.03735v1)|
+|**2026-10-31**|**From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN**|Shuchao Gao et al.|[2611.06940v1](http://arxiv.org/abs/2611.06940v1)|
 |**2026-10-30**|**Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware**|Aashman Mehta et al.|[2610.41265v1](http://arxiv.org/abs/2610.41265v1)|
 |**2026-10-30**|**Adaptive Uncertainty Quantification on Simplicial Complexes with Conformalized Simplicial Neural Networks**|Lekun Wang et al.|[2610.41166v1](http://arxiv.org/abs/2610.41166v1)|
 |**2026-10-29**|**AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI**|Volker Kempe et al.|[2610.39796v1](http://arxiv.org/abs/2610.39796v1)|
@@ -3591,5 +3592,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261106">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261107">back to top</a>)</p>
 
