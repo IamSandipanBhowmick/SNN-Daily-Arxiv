@@ -1,4 +1,4 @@
-## Updated on 2026.11.13
+## Updated on 2026.11.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-11-12**|**Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales**|Billur Kaymakçalan et al.|[2611.17219v1](http://arxiv.org/abs/2611.17219v1)|
+|**2026-11-11**|**Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing**|Alessio Borgi et al.|[2611.04670v2](http://arxiv.org/abs/2611.04670v2)|
 |**2026-11-10**|**Predictive Neuromorphic Control of a Scanning Mirror System: An Event-Centric Framework**|Changrui Liu et al.|[2611.11634v2](http://arxiv.org/abs/2611.11634v2)|
 |**2026-11-10**|**Are Spiking Neural Networks Harder to Steal? The Role of Stochastic Encoding in Model Extraction**|Ayana Moshruba et al.|[2610.36298v2](http://arxiv.org/abs/2610.36298v2)|
 |**2026-11-10**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et al.|[2610.15146v3](http://arxiv.org/abs/2610.15146v3)|
@@ -29,7 +31,6 @@
 |**2026-11-04**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et al.|[2610.33979v2](http://arxiv.org/abs/2610.33979v2)|
 |**2026-11-04**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Jin Li et al.|[2610.14594v3](http://arxiv.org/abs/2610.14594v3)|
 |**2026-11-03**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et al.|[2610.39688v2](http://arxiv.org/abs/2610.39688v2)|
-|**2026-11-03**|**Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing**|Alessio Borgi et al.|[2611.04670v1](http://arxiv.org/abs/2611.04670v1)|
 |**2026-11-03**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et al.|[2610.17154v2](http://arxiv.org/abs/2610.17154v2)|
 |**2026-11-03**|**Energy-efficient End-to-End Communication System with Spiking Neural Networks**|Pooja Plavilayil Anil et al.|[2611.05550v1](http://arxiv.org/abs/2611.05550v1)|
 |**2026-11-02**|**Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics**|Tuba Aksoy et al.|[2611.03841v1](http://arxiv.org/abs/2611.03841v1)|
@@ -3603,5 +3604,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261113">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261114">back to top</a>)</p>
 
