@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-11-15**|**State Diagram of Dual-Free-Layer Perpendicular Magnetic Tunnel Junctions for Artificial Spiking Neurons**|Arthur Courberand et al.|[2611.19727v1](http://arxiv.org/abs/2611.19727v1)|
+|**2026-11-13**|**Brain-inspired Beam Selection for mmWave RIS Communication**|Aris Karampelas Timotijevic et al.|[2611.17666v1](http://arxiv.org/abs/2611.17666v1)|
 |**2026-11-12**|**Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales**|Billur Kaymakçalan et al.|[2611.17219v1](http://arxiv.org/abs/2611.17219v1)|
 |**2026-11-11**|**Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing**|Alessio Borgi et al.|[2611.04670v2](http://arxiv.org/abs/2611.04670v2)|
 |**2026-11-10**|**Predictive Neuromorphic Control of a Scanning Mirror System: An Event-Centric Framework**|Changrui Liu et al.|[2611.11634v2](http://arxiv.org/abs/2611.11634v2)|
@@ -3604,5 +3606,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261116">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261117">back to top</a>)</p>
 
