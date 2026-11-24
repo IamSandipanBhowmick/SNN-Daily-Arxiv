@@ -1,5 +1,14 @@
 {
   "Spiking Neural Network": {
+    "2611.30277": "|**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|\n",
+    "2611.30041": "|**2026-11-23**|**Spiking World-Action Models for Robotic Manipulation**|Mingquan Liu et al.|[2611.30041v1](http://arxiv.org/abs/2611.30041v1)|\n",
+    "2611.27953": "|**2026-11-20**|**Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform**|Guillem Fustier-Castillo et al.|[2611.27953v1](http://arxiv.org/abs/2611.27953v1)|\n",
+    "2611.27686": "|**2026-11-20**|**Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs**|Manh V. Nguyen et al.|[2611.27686v1](http://arxiv.org/abs/2611.27686v1)|\n",
+    "2611.27322": "|**2026-11-20**|**Spiking Neural Networks Incrementally Track Firing-Rate Networks**|Hyunseok Oh et al.|[2611.27322v1](http://arxiv.org/abs/2611.27322v1)|\n",
+    "2611.27277": "|**2026-11-20**|**Stratum: A Hardware-Software Co-Design Framework for SNN Inference on RISC-V**|Wajahat Riaz et al.|[2611.27277v1](http://arxiv.org/abs/2611.27277v1)|\n",
+    "2611.27129": "|**2026-11-20**|**Opto-Electronic Hybrid Reinforcement Learning Based on MZI for Robotic Manipulator Control**|Mengting Yu et al.|[2611.27129v1](http://arxiv.org/abs/2611.27129v1)|\n",
+    "2611.26939": "|**2026-11-20**|**Acceleration of Sparse and Irregular Workloads through Energy-Efficient Stream Extensions**|Paul Scheffler et al.|[2611.26939v1](http://arxiv.org/abs/2611.26939v1)|\n",
+    "2610.15968": "|**2026-11-20**|**Softmax-Free Attention in Spiking Transformers as Zero-Temperature Two-Level Systems: Applications to XAI**|Roberto C. Sotero et al.|[2610.15968v2](http://arxiv.org/abs/2610.15968v2)|\n",
     "2611.22639": "|**2026-11-19**|**Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control**|Artem Guba et al.|[2611.22639v3](http://arxiv.org/abs/2611.22639v3)|\n",
     "2611.26419": "|**2026-11-19**|**FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities**|Bassam El Said et al.|[2611.26419v1](http://arxiv.org/abs/2611.26419v1)|\n",
     "2611.26074": "|**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et al.|[2611.26074v1](http://arxiv.org/abs/2611.26074v1)|\n",
