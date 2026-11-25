@@ -1,7 +1,11 @@
 {
   "Spiking Neural Network": {
+    "2611.32758": "|**2026-11-24**|**Low-Power Spiking Neural Network Acceleration with Differential Time Representation: A Modular Hardware Framework**|Daniel Windhager et al.|[2611.32758v1](http://arxiv.org/abs/2611.32758v1)|\n",
+    "2611.32288": "|**2026-11-24**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et al.|[2611.32288v1](http://arxiv.org/abs/2611.32288v1)|\n",
+    "2611.31884": "|**2026-11-24**|**HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning**|Shanmuga Venkatachalam et al.|[2611.31884v1](http://arxiv.org/abs/2611.31884v1)|\n",
     "2611.30277": "|**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|\n",
     "2611.30041": "|**2026-11-23**|**Spiking World-Action Models for Robotic Manipulation**|Mingquan Liu et al.|[2611.30041v1](http://arxiv.org/abs/2611.30041v1)|\n",
+    "2611.31644": "|**2026-11-23**|**The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins**|Mauricio Muñoz Arias et al.|[2611.31644v1](http://arxiv.org/abs/2611.31644v1)|\n",
     "2611.27953": "|**2026-11-20**|**Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform**|Guillem Fustier-Castillo et al.|[2611.27953v1](http://arxiv.org/abs/2611.27953v1)|\n",
     "2611.27686": "|**2026-11-20**|**Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs**|Manh V. Nguyen et al.|[2611.27686v1](http://arxiv.org/abs/2611.27686v1)|\n",
     "2611.27322": "|**2026-11-20**|**Spiking Neural Networks Incrementally Track Firing-Rate Networks**|Hyunseok Oh et al.|[2611.27322v1](http://arxiv.org/abs/2611.27322v1)|\n",
