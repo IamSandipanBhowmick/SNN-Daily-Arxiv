@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,8 @@
 
 |Publish Date|Title|Authors|Paper|
 |---|---|---|---|
+|**2026-11-25**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et al.|[2611.32288v2](http://arxiv.org/abs/2611.32288v2)|
 |**2026-11-24**|**Low-Power Spiking Neural Network Acceleration with Differential Time Representation: A Modular Hardware Framework**|Daniel Windhager et al.|[2611.32758v1](http://arxiv.org/abs/2611.32758v1)|
-|**2026-11-24**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et al.|[2611.32288v1](http://arxiv.org/abs/2611.32288v1)|
 |**2026-11-24**|**HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning**|Shanmuga Venkatachalam et al.|[2611.31884v1](http://arxiv.org/abs/2611.31884v1)|
 |**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|
 |**2026-11-23**|**Spiking World-Action Models for Robotic Manipulation**|Mingquan Liu et al.|[2611.30041v1](http://arxiv.org/abs/2611.30041v1)|
@@ -3628,5 +3628,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align="right">(<a href="#Updated-on-20261125">back to top</a>)</p>
+<p align="right">(<a href="#Updated-on-20261126">back to top</a>)</p>
 
