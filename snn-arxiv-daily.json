@@ -1,6 +1,8 @@
 {
   "Spiking Neural Network": {
     "2611.32288": "|**2026-11-25**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et al.|[2611.32288v2](http://arxiv.org/abs/2611.32288v2)|\n",
+    "2610.39688": "|**2026-11-25**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et al.|[2610.39688v3](http://arxiv.org/abs/2610.39688v3)|\n",
+    "2611.34381": "|**2026-11-25**|**Decoupling the clocks of learning and computing in spiking neural networks**|Michalis Pagkalos et al.|[2611.34381v1](http://arxiv.org/abs/2611.34381v1)|\n",
     "2611.32758": "|**2026-11-24**|**Low-Power Spiking Neural Network Acceleration with Differential Time Representation: A Modular Hardware Framework**|Daniel Windhager et al.|[2611.32758v1](http://arxiv.org/abs/2611.32758v1)|\n",
     "2611.31884": "|**2026-11-24**|**HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning**|Shanmuga Venkatachalam et al.|[2611.31884v1](http://arxiv.org/abs/2611.31884v1)|\n",
     "2611.30277": "|**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|\n",
@@ -44,7 +46,6 @@
     "2610.41607": "|**2026-11-04**|**Characterizing $\\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model**|Sanchari Thakur et al.|[2610.41607v2](http://arxiv.org/abs/2610.41607v2)|\n",
     "2610.33979": "|**2026-11-04**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et al.|[2610.33979v2](http://arxiv.org/abs/2610.33979v2)|\n",
     "2610.14594": "|**2026-11-04**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Jin Li et al.|[2610.14594v3](http://arxiv.org/abs/2610.14594v3)|\n",
-    "2610.39688": "|**2026-11-03**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et al.|[2610.39688v2](http://arxiv.org/abs/2610.39688v2)|\n",
     "2610.17154": "|**2026-11-03**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et al.|[2610.17154v2](http://arxiv.org/abs/2610.17154v2)|\n",
     "2611.05550": "|**2026-11-03**|**Energy-efficient End-to-End Communication System with Spiking Neural Networks**|Pooja Plavilayil Anil et al.|[2611.05550v1](http://arxiv.org/abs/2611.05550v1)|\n",
     "2611.03841": "|**2026-11-02**|**Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics**|Tuba Aksoy et al.|[2611.03841v1](http://arxiv.org/abs/2611.03841v1)|\n",
